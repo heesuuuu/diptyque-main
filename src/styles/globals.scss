@@ -1,0 +1,97 @@
+@import 'variables';
+@import 'mixins';
+@import 'swiper';
+
+:root {
+  --background: #{$white};
+  --foreground: #{$darkgrey-3};
+
+  // colors
+  --white: #fff;
+  --black: #000;
+  --primary: #{$primary};
+  --semantic-green: #{$semantic-green};
+  --semantic-red: #{$semantic-red};
+  --semantic-blue: #{$semantic-blue};
+  --lightgrey-1: #{$lightgrey-1};
+  --lightgrey-2: #{$lightgrey-2};
+  --lightgrey-3: #{$lightgrey-3};
+  --lightgrey-4: #{$lightgrey-4};
+  --grey-1: #{$grey-1};
+  --grey-2: #{$grey-2};
+  --grey-3: #{$grey-3};
+  --grey-4: #{$grey-4};
+  --darkgrey-1: #{$darkgrey-1};
+  --darkgrey-2: #{$darkgrey-2};
+  --darkgrey-3: #{$darkgrey-3};
+
+  // layout
+  --hd-height: 128px;
+  --cont-gap: 40px;
+  --sec-gap-pc: 200px;
+  --sec-gap-t: 150px;
+  --sec-gap-m: 100px;
+
+  // font-style
+  --font-family-base: 'Inter', sans-serif;
+  --font-family-heading: 'Diptyque', serif;
+  --font-size-base: 16px;
+  --font-weight-base: 400;
+  --font-weight-bold: 700;
+
+  // PC 폰트 설정
+  --font-size-display1-pc: 120px;
+  --font-size-display2-pc: 80px;
+  --font-size-display3-pc: 60px;
+  --font-size-heading1-pc: 36px;
+  --font-size-heading2-pc: 28px;
+  --font-size-heading3-pc: 16px;
+  --font-size-body1-pc: 18px;
+  --font-size-body2-pc: 16px;
+  --font-size-body3-pc: 14px;
+  --font-size-body4-pc: 12px;
+
+  // Tablet,Mobile 폰트 설정
+  --font-size-display1-mobile: 44px;
+  --font-size-display2-mobile: 30px;
+  --font-size-heading1-mobile: 28px;
+  --font-size-heading2-mobile: 20px;
+  --font-size-heading3-mobile: 16px;
+  --font-size-heading4-mobile: 14px;
+  --font-size-body1-mobile: 16px;
+  --font-size-body2-mobile: 14px;
+  --font-size-body3-mobile: 12px;
+
+  // breakpoints
+  --breakpoint-sm: 768px;
+  --breakpoint-lg: 1024px;
+}
+
+/* 기본 폰트 설정 */
+html,
+body {
+  @include pc-body2;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+}
+
+/* 헤딩 폰트 설정 */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: #{$font-family-heading};
+}
+
+input {
+  outline: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}

@@ -1,0 +1,264 @@
+@charset "UTF-8";
+/* Inter 폰트 로드 - CDN 사용 */
+@import 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap';
+/* Diptyque 폰트 로드 - 로컬 파일 사용 */
+@font-face {
+  font-family: Diptyque;
+  src: url("/assets/fonts/diptyque/Diptyque-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Diptyque;
+  src: url("/assets/fonts/diptyque/Diptyque-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+/* PC 폰트 설정 */
+/* Tablet,Mobile 폰트 설정 */
+.swiper .swiper-button-next::before,
+.swiper .swiper-button-prev::before {
+  color: var(--foreground);
+}
+
+:root {
+  --background: #fff;
+  --foreground: #121212;
+  --white: #fff;
+  --black: #000;
+  --primary: #112856;
+  --semantic-green: #2f5539;
+  --semantic-red: #d12f37;
+  --semantic-blue: #23507a;
+  --lightgrey-1: #f8f8f8;
+  --lightgrey-2: #f3efef;
+  --lightgrey-3: #e5e7eb;
+  --lightgrey-4: #e6e5e5;
+  --grey-1: #d8d8d8;
+  --grey-2: #bbb;
+  --grey-3: #808080;
+  --grey-4: #5f5f5f;
+  --darkgrey-1: #43464e;
+  --darkgrey-2: #1d1f22;
+  --darkgrey-3: #121212;
+  --hd-height: 128px;
+  --cont-gap: 40px;
+  --sec-gap-pc: 200px;
+  --sec-gap-t: 150px;
+  --sec-gap-m: 100px;
+  --font-family-base: "Inter", sans-serif;
+  --font-family-heading: "Diptyque", serif;
+  --font-size-base: 16px;
+  --font-weight-base: 400;
+  --font-weight-bold: 700;
+  --font-size-display1-pc: 120px;
+  --font-size-display2-pc: 80px;
+  --font-size-display3-pc: 60px;
+  --font-size-heading1-pc: 36px;
+  --font-size-heading2-pc: 28px;
+  --font-size-heading3-pc: 16px;
+  --font-size-body1-pc: 18px;
+  --font-size-body2-pc: 16px;
+  --font-size-body3-pc: 14px;
+  --font-size-body4-pc: 12px;
+  --font-size-display1-mobile: 44px;
+  --font-size-display2-mobile: 30px;
+  --font-size-heading1-mobile: 28px;
+  --font-size-heading2-mobile: 20px;
+  --font-size-heading3-mobile: 16px;
+  --font-size-heading4-mobile: 14px;
+  --font-size-body1-mobile: 16px;
+  --font-size-body2-mobile: 14px;
+  --font-size-body3-mobile: 12px;
+  --breakpoint-sm: 768px;
+  --breakpoint-lg: 1024px;
+}
+
+/* 기본 폰트 설정 */
+html,
+body {
+  font-size: 16px;
+  line-height: 1.6;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+}
+
+/* 헤딩 폰트 설정 */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Diptyque, serif;
+}
+
+input {
+  outline: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.service-page-container {
+  padding: 0 240px;
+}
+.service-page-container section {
+  margin-top: 200px;
+  margin-bottom: 200px;
+  text-align: center;
+}
+.service-page-container .first-sec {
+  margin-top: 280px;
+}
+.service-page-container h2 {
+  font-size: 36px;
+  line-height: 1.6;
+  font-family: "Diptyque", serif;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+.service-page-container p {
+  font-size: 16px;
+  line-height: 1.6;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+
+.flex-col-align-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flex-align-box {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  align-items: center;
+}
+
+.service-sec-img-size1 {
+  width: 44.25rem;
+  height: 49.9375rem;
+}
+
+.gift-sec-swiper {
+  width: 67.125rem;
+}
+.gift-sec-swiper .swiper-slide {
+  width: 21.375rem;
+}
+.gift-sec-swiper .swiper-slide div {
+  width: 100%;
+  height: 22.4375rem;
+}
+.gift-sec-swiper .swiper-slide p {
+  width: 100%;
+  margin-top: 24px;
+}
+
+.store-info-swiper .swiper-slide {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.store-info-swiper .swiper-slide ul {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+.store-info-swiper .swiper-slide ul div {
+  width: 100%;
+  height: 12.4375rem;
+  margin-bottom: 24px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.store-info-swiper .swiper-slide li {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  width: 9.9375rem;
+  height: 16.1875rem;
+}
+.store-info-swiper .swiper-slide li p {
+  font-size: 12px;
+  line-height: 1.5;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+
+.store-info-desc {
+  flex-grow: 1;
+}
+
+.store-info-btn {
+  height: 60px !important;
+}
+.store-info-btn p {
+  font-size: 14px;
+  line-height: 1.5;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+
+.store-img-swiper .store-img {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.store-img-swiper .swiper-pagination-bullets {
+  bottom: 20px;
+}
+.store-img-swiper .swiper-pagination-bullet {
+  width: 6px;
+  height: 6px;
+}
+
+.refill-img {
+  width: 27.0625rem;
+  height: 27.0625rem;
+  margin-bottom: 24px;
+}
+
+.online-img-ul {
+  display: flex;
+  gap: 24px;
+}
+.online-img-ul div {
+  width: 220px;
+  height: 281px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  margin-bottom: 24px;
+}
+
+.goto-register-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.goto-register-btn button {
+  width: 21.375rem;
+  margin-top: 40px;
+}
+.goto-register-btn p {
+  font-size: 14px;
+  line-height: 1.5;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,100 @@
+$white: #fff;
+$black: #000;
+
+// 기본 색상
+$white: #fff !default;
+$black: #000 !default;
+
+// 브랜드 및 시맨틱 색상
+$primary: #112856 !default;
+$semantic-green: #2f5539 !default;
+$semantic-red: #d12f37 !default;
+$semantic-blue: #23507a !default;
+
+// 라이트 그레이 계열
+$lightgrey-1: #f8f8f8 !default;
+$lightgrey-2: #f3efef !default;
+$lightgrey-3: #e5e7eb !default;
+$lightgrey-4: #e6e5e5 !default;
+
+// 그레이 계열
+$grey-1: #d8d8d8 !default;
+$grey-2: #bbb !default;
+$grey-3: #808080 !default;
+$grey-4: #5f5f5f !default;
+
+// 다크 그레이 계열
+$darkgrey-1: #43464e !default;
+$darkgrey-2: #1d1f22 !default;
+$darkgrey-3: #121212 !default;
+
+// ====================================
+
+/* Inter 폰트 로드 - CDN 사용 */
+@import 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap';
+
+/* Diptyque 폰트 로드 - 로컬 파일 사용 */
+@font-face {
+  font-family: Diptyque;
+  src: url('/assets/fonts/diptyque/Diptyque-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Diptyque;
+  src: url('/assets/fonts/diptyque/Diptyque-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+// font-style
+$font-family-base: 'Inter', sans-serif !default;
+$font-family-heading: 'Diptyque', serif !default;
+$font-size-base: 16px !default;
+$font-weight-base: 400 !default;
+$font-weight-bold: 700 !default;
+
+/* PC 폰트 설정 */
+$font-size-display1-pc: 120px !default;
+$font-size-display2-pc: 80px !default;
+$font-size-display3-pc: 60px !default;
+$font-size-heading1-pc: 36px !default;
+$font-size-heading2-pc: 28px !default;
+$font-size-heading3-pc: 16px !default;
+$font-size-body1-pc: 18px !default;
+$font-size-body2-pc: 16px !default;
+$font-size-body3-pc: 14px !default;
+$font-size-body4-pc: 12px !default;
+
+/* Tablet,Mobile 폰트 설정 */
+$font-size-display1-mobile: 44px !default;
+$font-size-display2-mobile: 30px !default;
+$font-size-heading1-mobile: 28px !default;
+$font-size-heading2-mobile: 20px !default;
+$font-size-heading3-mobile: 16px !default;
+$font-size-heading4-mobile: 14px !default;
+$font-size-body1-mobile: 16px !default;
+$font-size-body2-mobile: 14px !default;
+$font-size-body3-mobile: 12px !default;
+
+// ========================================
+//breakpoints
+$breakpoint-tablet: 768px !default;
+$breakpoint-desktop: 1024px !default;
+
+// ========================================
+// layout
+
+// header size
+$header-h: 128px;
+$header-h-m: 76px;
+
+// section gap size
+$sec-gap-pc: 200px;
+$sec-gap-tablet: 150px;
+$sec-gap-mobile: 100px;
+
+// $ftH: 70px;

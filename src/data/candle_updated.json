@@ -1,0 +1,2034 @@
+[
+  {
+    "id": 300,
+    "olfactory": "Flowers",
+    "name": "Roses",
+    "notes": "The herbarium of flowers",
+    "description": "A bouquet of fresh flowers, blooming in deepest winter. For the first time, the Rose scented candle is available in a large format. Its porcelain vessel, stamped with the oval of the Maison, is an invitation to make this luminous ritual last. Gradually, the air fills with fresh, flowery notes. A tribute to a timeless emblem.",
+    "options": [
+      {
+        "size": "small",
+        "price": 40,
+        "weight": "70g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3001
+      },
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3002
+      },
+      {
+        "size": "large",
+        "price": 180,
+        "weight": "600g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3003
+      },
+      {
+        "size": "extra large",
+        "price": 315,
+        "weight": "1500g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/detail/detail_3.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/detail/detail_4.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/detail/detail_5.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Roses/detail/detail_6.jpg"
+          ]
+        },
+        "optionId": 3004
+      }
+    ],
+    "collection": "Roses",
+    "sales": 423,
+    "inStock": false,
+    "created_at": "2024-02-26"
+  },
+  {
+    "id": 301,
+    "olfactory": "Flowers",
+    "name": "Tubéreuse",
+    "notes": "The herbarium of flowers",
+    "description": "Atop their long, slender stems, these tuberoses unfold their fragrance - heady, yet green and fresh. A perfume captured in a small vessel. Once lit, this candle invites the imagination to roam and explore the wide fields of Southern India where this delicate white flower is cultivated.",
+    "options": [
+      {
+        "size": "small",
+        "price": 40,
+        "weight": "70g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3011
+      },
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3012
+      },
+      {
+        "size": "medium",
+        "price": 85,
+        "weight": "300g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/detail/detail_2.jpg"
+          ]
+        },
+        "optionId": 3013
+      },
+      {
+        "size": "large",
+        "price": 180,
+        "weight": "600g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3014
+      },
+      {
+        "size": "extra large",
+        "price": 315,
+        "weight": "1500g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/detail/detail_3.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tubéreuse/detail/detail_4.jpg"
+          ]
+        },
+        "optionId": 3015
+      }
+    ],
+    "collection": "Tubéreuse",
+    "sales": 235,
+    "inStock": true,
+    "created_at": "2024-09-29"
+  },
+  {
+    "id": 302,
+    "olfactory": "Flowers",
+    "name": "Mimosa",
+    "notes": "The herbarium of flowers",
+    "description": "Mimosa seen at its finest. Captured in the wax of this scented candle is a tribute to these flowers and their sunny, golden yellow hue. On the hills of Tanneron near Grasse, they perfume the winter air with their velvety, slightly honeyed scent. Silently, their charm unfolds.",
+    "options": [
+      {
+        "size": "small",
+        "price": 40,
+        "weight": "70g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Mimosa/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Mimosa/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Mimosa/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Mimosa/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Mimosa/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3021
+      },
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Mimosa/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Mimosa/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Mimosa/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Mimosa/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Mimosa/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3022
+      }
+    ],
+    "collection": "Mimosa",
+    "sales": 400,
+    "inStock": true,
+    "created_at": "2024-03-11"
+  },
+  {
+    "id": 303,
+    "olfactory": "Flowers",
+    "name": "Jasmin ",
+    "notes": "The herbarium of flowers",
+    "description": "Strolling down a path, our attention is instantly captured by a jasmine scent. The notes that emerge are subtle yet persistent, tender yet sensual. How can such small, delicate white flowers leave such a powerful impression? An olfactory signature in a scented candle, filling the room from the moment the wick is lit..",
+    "options": [
+      {
+        "size": "small",
+        "price": 40,
+        "weight": "70g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Jasmin_/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Jasmin_/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Jasmin_/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Jasmin_/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Jasmin_/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3031
+      },
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Jasmin_/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Jasmin_/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Jasmin_/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Jasmin_/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Jasmin_/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3032
+      }
+    ],
+    "collection": null,
+    "sales": 89,
+    "inStock": false,
+    "created_at": "2023-01-13"
+  },
+  {
+    "id": 304,
+    "olfactory": "Flowers",
+    "name": "Muguet (Lily of the Valley)",
+    "notes": "The herbarium of flowers",
+    "description": "Within the glass vessel of this scented candle is an ode to lily of the valley, a herald of springtime that proliferates in the undergrowth, glorying in its joyful, sprightly nature. A true lucky charm that invites happiness in. The moment the wick is lit, any room become brighter and more cheerful.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Muguet_%28Lily_of_the_Valley%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Muguet_%28Lily_of_the_Valley%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Muguet_%28Lily_of_the_Valley%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Muguet_%28Lily_of_the_Valley%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Muguet_%28Lily_of_the_Valley%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3041
+      }
+    ],
+    "collection": null,
+    "sales": 368,
+    "inStock": true,
+    "created_at": "2024-07-29"
+  },
+  {
+    "id": 305,
+    "olfactory": "Flowers",
+    "name": "Tilleul (Linden Tree)",
+    "notes": "The herbarium of flowers",
+    "description": "Spring draws to a close. Summer is coming. In the woods, the linden flowers release their fragrance: potent, floral, honeyed. A scented candle with the unforgettable notes of a spectacular tree. Scents to send you straight back to your childhood.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tilleul_%28Linden_Tree%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tilleul_%28Linden_Tree%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tilleul_%28Linden_Tree%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tilleul_%28Linden_Tree%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Tilleul_%28Linden_Tree%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3051
+      }
+    ],
+    "collection": null,
+    "sales": 13,
+    "inStock": false,
+    "created_at": "2024-09-01"
+  },
+  {
+    "id": 306,
+    "olfactory": "Flowers",
+    "name": "Lys (Lily)",
+    "notes": "The herbarium of flowers",
+    "description": "A massive bouquet of fresh-cut lilies, with white petals in abundance. The green fragrance of sap and leaves mingles with the slightly spicy accents of this heady flower. As dawn breaks, the lilies open their corollas. In this scented candle, they emerge in much the same way.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Lys_%28Lily%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Lys_%28Lily%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Lys_%28Lily%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Lys_%28Lily%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Lys_%28Lily%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3061
+      }
+    ],
+    "collection": null,
+    "sales": 463,
+    "inStock": false,
+    "created_at": "2023-04-30"
+  },
+  {
+    "id": 307,
+    "olfactory": "Flowers",
+    "name": "Violette (Violet)",
+    "notes": "The herbarium of flowers",
+    "description": "Precious. Fragile. The Violette (Violet) scented candle reveals the soft, caressing, irresistibly powdery perfume of this small flower. A deeply familiar scent, evoking memories of gathering violets at first light.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Violette_%28Violet%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Violette_%28Violet%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Violette_%28Violet%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Violette_%28Violet%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Violette_%28Violet%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3071
+      }
+    ],
+    "collection": null,
+    "sales": 271,
+    "inStock": true,
+    "created_at": "2023-09-01"
+  },
+  {
+    "id": 308,
+    "olfactory": "Flowers",
+    "name": "Geranium Rosa",
+    "notes": "The herbarium of flowers",
+    "description": "A geranium blooming with red flowers. The fresh, green, faintly aromatic notes of the leaves are joined by flowery, spicy nauances of the rose. The scented wax of this candle highlights the scents naturally shared by the two flowers.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Geranium_Rosa/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Geranium_Rosa/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Geranium_Rosa/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Geranium_Rosa/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Geranium_Rosa/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3081
+      }
+    ],
+    "collection": null,
+    "sales": 104,
+    "inStock": false,
+    "created_at": "2023-11-15"
+  },
+  {
+    "id": 309,
+    "olfactory": "Flowers",
+    "name": "Gardenia",
+    "notes": "The herbarium of flowers",
+    "description": "A vast garden of white, fragrant gardenias. A candle that's an ode to the fresh, heady perfume of a flower often used to brighten bridal bouquets. An emblem of happiness and good luck.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Gardenia/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Gardenia/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Gardenia/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Gardenia/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Gardenia/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3091
+      }
+    ],
+    "collection": null,
+    "sales": 37,
+    "inStock": false,
+    "created_at": "2024-09-08"
+  },
+  {
+    "id": 310,
+    "olfactory": "Flowers",
+    "name": "Choisya (Orange Blossom)",
+    "notes": "The herbarium of flowers",
+    "description": "Familiar and distinctive. The Choisya (Orange Blossom) candle is named after a Mexican orange tree that is livelier and greener than its Mediterranean counterpart. From the moment the wick is lit, a landscape emerges in outline. Shrubs begin to bloom, buds open gradually to release their delicate perfume.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Choisya_%28Orange_Blossom%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Choisya_%28Orange_Blossom%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Choisya_%28Orange_Blossom%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Choisya_%28Orange_Blossom%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Choisya_%28Orange_Blossom%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3101
+      }
+    ],
+    "collection": null,
+    "sales": 21,
+    "inStock": true,
+    "created_at": "2024-12-18"
+  },
+  {
+    "id": 311,
+    "olfactory": "Flowers",
+    "name": "Aubépine (Hawthorn)",
+    "notes": "The herbarium of flowers",
+    "description": "The iconic Aubépine (Hawthorn) candle was one of Diptyque's first three scented candles. A tribute to a tiny, thorny white flower that is the ancestor of the rose. The perfume, however, is quite different: a flowery, well-rounded scent with hints of bitter almost and honeyed, somewhat powdery pollen. Exclusive to our online stores and Diptyque boutiques...",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Aub%C3%A9pine_%28Hawthorn%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Aub%C3%A9pine_%28Hawthorn%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Aub%C3%A9pine_%28Hawthorn%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Aub%C3%A9pine_%28Hawthorn%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Aub%C3%A9pine_%28Hawthorn%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3111
+      }
+    ],
+    "collection": null,
+    "sales": 191,
+    "inStock": true,
+    "created_at": "2023-06-05"
+  },
+  {
+    "id": 312,
+    "olfactory": "Flowers",
+    "name": "Freesia",
+    "notes": "The herbarium of flowers",
+    "description": "A spring air. The Freesia scented candle infuses the home with a delicate, heady fragrance crowned with a touch of pepper. The wax harbours a large bouquet of fragrant, multicoloured flowers. Yellow, white, pink, violet, purple. Once the wick is lit, each one reveals its perfume.",
+    "options": [
+      {
+        "size": "small",
+        "price": 40,
+        "weight": "70g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Freesia/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Freesia/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Freesia/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Freesia/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Freesia/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3121
+      },
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Freesia/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Freesia/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Freesia/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Freesia/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Freesia/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3122
+      }
+    ],
+    "collection": null,
+    "sales": 102,
+    "inStock": true,
+    "created_at": "2023-04-18"
+  },
+  {
+    "id": 313,
+    "olfactory": "Flowers",
+    "name": "Iris",
+    "notes": "The herbarium of flowers",
+    "description": "The dreamlike scent of iris blossom. Its lightness suggests gossamer-thin layers of powder, its elegance evokes the fine leather gloves once perfumed with its rhizomes. The roots are traditionally used in perfumery, and it is here that the legendary scent is concentrated. You'll find this candle exclusively on our website and in Diptyque boutiques.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Iris/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Iris/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Iris/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Iris/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Iris/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3131
+      }
+    ],
+    "collection": null,
+    "sales": 343,
+    "inStock": true,
+    "created_at": "2024-01-30"
+  },
+  {
+    "id": 314,
+    "olfactory": "Trees",
+    "name": "Feu de Bois (Wood Fire)",
+    "notes": "The herbarium of trees",
+    "description": "It is winter. In the hearth, the fire roars. This scented candle portrays the dense, smoky notes of the logs as they are gradually consumed. Throwing out light and casting shadows, the flame dances as it lights up the room. From time to time, we seem to hear the wood crackling.",
+    "options": [
+      {
+        "size": "small",
+        "price": 40,
+        "weight": "70g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3141
+      },
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3142
+      },
+      {
+        "size": "medium",
+        "price": 85,
+        "weight": "300g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/detail/detail_2.jpg"
+          ]
+        },
+        "optionId": 3143
+      },
+      {
+        "size": "large",
+        "price": 180,
+        "weight": "600g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3144
+      },
+      {
+        "size": "extra large",
+        "price": 315,
+        "weight": "600g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/detail/detail_3.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feu_de_Bois_%28Wood_Fire%29/detail/detail_4.jpg"
+          ]
+        },
+        "optionId": 3145
+      }
+    ],
+    "collection": "Feu de Bois (Wood Fire)",
+    "sales": 268,
+    "inStock": true,
+    "created_at": "2023-05-16"
+  },
+  {
+    "id": 315,
+    "olfactory": "Trees",
+    "name": "34 Boulevard Saint Germain",
+    "notes": "The herbarium of trees",
+    "description": "Stamped with the emblematic oval, this large 34 Boulevard Saint-Germain candle captures the olfactory atmosphere of the first Diptyque boutique. Moss and blackcurrant leaves, floral notes heightened with oriental spices, the warmth of wood and of balms: within this white biscuit vessel is a whole art of living, Latin Quarter-style. Urbanity, liberty.",
+    "options": [
+      {
+        "size": "medium",
+        "price": 92,
+        "weight": "300g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/34_boulevard_Saint_Germain/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/34_boulevard_Saint_Germain/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/34_boulevard_Saint_Germain/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/34_boulevard_Saint_Germain/detail/detail_2.jpg"
+          ]
+        },
+        "optionId": 3151
+      },
+      {
+        "size": "large",
+        "price": 190,
+        "weight": "600g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/34_boulevard_Saint_Germain/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/34_boulevard_Saint_Germain/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/34_boulevard_Saint_Germain/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/34_boulevard_Saint_Germain/detail/detail_2.jpg"
+          ]
+        },
+        "optionId": 3152
+      },
+      {
+        "size": "extra large",
+        "price": 325,
+        "weight": "600g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/34_boulevard_Saint_Germain/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/34_boulevard_Saint_Germain/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/34_boulevard_Saint_Germain/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/34_boulevard_Saint_Germain/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/34_boulevard_Saint_Germain/detail/detail_3.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/34_boulevard_Saint_Germain/detail/detail_4.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/34_boulevard_Saint_Germain/detail/detail_5.jpg"
+          ]
+        },
+        "optionId": 3153
+      }
+    ],
+    "collection": "34 Boulevard Saint Germain",
+    "sales": 384,
+    "inStock": true,
+    "created_at": "2023-09-05"
+  },
+  {
+    "id": 316,
+    "olfactory": "Trees",
+    "name": "Ambre (Amber)",
+    "notes": "The herbarium of trees",
+    "description": "Within an ancient treasure box, amber spheres, now suffused with the heady fragrance of balms, of spices, of precious woods. The Ambre (Amber) scented candle tells a tale of secrets.",
+    "options": [
+      {
+        "size": "small",
+        "price": 40,
+        "weight": "70g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3161
+      },
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3162
+      },
+      {
+        "size": "medium",
+        "price": 85,
+        "weight": "300g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_2.jpg"
+          ]
+        },
+        "optionId": 3163
+      },
+      {
+        "size": "large",
+        "price": 180,
+        "weight": "600g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_3.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_4.jpg"
+          ]
+        },
+        "optionId": 3164
+      },
+      {
+        "size": "extra large",
+        "price": 315,
+        "weight": "1500g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_3.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_4.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ambre_%28Amber%29/detail/detail_5.jpg"
+          ]
+        },
+        "optionId": 3165
+      }
+    ],
+    "collection": "Ambre (Amber)",
+    "sales": 435,
+    "inStock": true,
+    "created_at": "2023-12-04"
+  },
+  {
+    "id": 317,
+    "olfactory": "Trees",
+    "name": "Oud",
+    "notes": "The herbarium of trees",
+    "description": "Travel deep into the Orient. The Oud candle fills the room with the dense, captivating scent of a tree known for thousands of years and more precious than gold. Once the wick is lit, the wax in the vessel reveals dark, elegant accents enhanced by smoky notes – with a slightly wild edge.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Oud/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Oud/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Oud/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Oud/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Oud/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3171
+      }
+    ],
+    "collection": null,
+    "sales": 76,
+    "inStock": false,
+    "created_at": "2023-07-14"
+  },
+  {
+    "id": 318,
+    "olfactory": "Trees",
+    "name": "Santal (Sandalwood)",
+    "notes": "The herbarium of trees",
+    "description": "Fresh-cut sandalwood. The ground is spread with a layer of shavings and fine sawdust – a woody, fragrant carpet in blond hues. In the sultry heat of Asia, the scent of the tree perfumes the air. The Santal (Sandalwood) scented candle conjures up that velvety, enveloping, slightly spicy fragrance.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Santal_%28Sandalwood%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Santal_%28Sandalwood%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Santal_%28Sandalwood%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Santal_%28Sandalwood%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Santal_%28Sandalwood%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3181
+      }
+    ],
+    "collection": null,
+    "sales": 133,
+    "inStock": true,
+    "created_at": "2024-06-10"
+  },
+  {
+    "id": 319,
+    "olfactory": "Trees",
+    "name": "Maquis(Scrub)",
+    "notes": "The herbarium of trees",
+    "description": "There are perfumes you never forget. The Maquis (Scrub) candle conjures up the sun-dried earth, the rockrose shrubs, the amber and leather notes of their resin. Plus immortelle flowers with their spicy sillage. This Mediterranean scent can be found exclusively on our website and in Diptyque boutiques.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Maquis%28Scrub%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Maquis%28Scrub%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Maquis%28Scrub%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Maquis%28Scrub%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Maquis%28Scrub%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3191
+      }
+    ],
+    "collection": null,
+    "sales": 365,
+    "inStock": false,
+    "created_at": "2023-07-21"
+  },
+  {
+    "id": 320,
+    "olfactory": "Trees",
+    "name": "Bois Ciré (Waxed Wood)",
+    "notes": "The herbarium of trees",
+    "description": "A warm, woody scent with accents of resin and wax. The Bois Ciré (Waxed Wood) scented candle instantly transports us to the great hall of an old castle. An ancient, majestic abode, the woodwork patinated by the years, the timber floors creaking with every step. You'll find this candle exclusively on our website and in Diptyque boutiques.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Bois_Cir%C3%A9_%28Waxed_Wood%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Bois_Cir%C3%A9_%28Waxed_Wood%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Bois_Cir%C3%A9_%28Waxed_Wood%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Bois_Cir%C3%A9_%28Waxed_Wood%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Bois_Cir%C3%A9_%28Waxed_Wood%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3201
+      }
+    ],
+    "collection": null,
+    "sales": 270,
+    "inStock": true,
+    "created_at": "2023-04-11"
+  },
+  {
+    "id": 321,
+    "olfactory": "Trees",
+    "name": "Opopanax",
+    "notes": "The herbarium of trees",
+    "description": "One of the world’s most extraordinary resins – the cousin of myrrh and benzoin. The scent is balmy and enveloping, with subtle hints of vanilla. Hailing from the Orient, with a scent that instantly soothed the senses, opoponax was formerly as much remedy as perfume",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Opopanax/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Opopanax/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Opopanax/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Opopanax/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Opopanax/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3211
+      }
+    ],
+    "collection": null,
+    "sales": 198,
+    "inStock": true,
+    "created_at": "2024-12-17"
+  },
+  {
+    "id": 322,
+    "olfactory": "Trees",
+    "name": "Noisetier (Hazel Tree)",
+    "notes": "The herbarium of trees",
+    "description": "Deep in the forest, a hazel tree. The freshness of its leaves meets the somewhat crisp, pralines notes of hazelnuts on the cusp of ripening. The Noisetier (Hazel Tree) scented candle captures the precise instant when the fruits are still on the tree, the hazelnut shells nestled in their pericarp. Its wax invites you to rediscover this brief, transient moment.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Noisetier_%28Hazel_Tree%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Noisetier_%28Hazel_Tree%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Noisetier_%28Hazel_Tree%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Noisetier_%28Hazel_Tree%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Noisetier_%28Hazel_Tree%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3221
+      }
+    ],
+    "collection": null,
+    "sales": 429,
+    "inStock": false,
+    "created_at": "2024-10-21"
+  },
+  {
+    "id": 323,
+    "olfactory": "Trees",
+    "name": "Chêne (Oak Tree)",
+    "notes": "The herbarium of trees",
+    "description": "The dense, comforting fragrance of the mighty oaks from which were once hewed fine, massive cabinets, solid wooden beams and the hulls of ships. The Chêne (Oak Tree) scented candle captures the full power of the trunk and the dry, resinous accents of the tannin in the bark. Exclusive to our online stores and Diptyque boutiques.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ch%C3%AAne_%28Oak_Tree%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ch%C3%AAne_%28Oak_Tree%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ch%C3%AAne_%28Oak_Tree%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ch%C3%AAne_%28Oak_Tree%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Ch%C3%AAne_%28Oak_Tree%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3231
+      }
+    ],
+    "collection": null,
+    "sales": 135,
+    "inStock": false,
+    "created_at": "2024-09-09"
+  },
+  {
+    "id": 324,
+    "olfactory": "Trees",
+    "name": "Cyprès (Cypress)",
+    "notes": "The herbarium of trees",
+    "description": "A grove of cypress trees on a late summer afternoon. In the air, the accents of their needles – soft, resinous, almost honeyed. Light this scented candle and savour the essence of southern climes.",
+    "options": [
+      {
+        "size": "small",
+        "price": 40,
+        "weight": "70g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cypr%C3%A8s_%28Cypress%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cypr%C3%A8s_%28Cypress%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cypr%C3%A8s_%28Cypress%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cypr%C3%A8s_%28Cypress%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cypr%C3%A8s_%28Cypress%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3241
+      },
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cypr%C3%A8s_%28Cypress%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cypr%C3%A8s_%28Cypress%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cypr%C3%A8s_%28Cypress%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cypr%C3%A8s_%28Cypress%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cypr%C3%A8s_%28Cypress%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3242
+      }
+    ],
+    "collection": null,
+    "sales": 105,
+    "inStock": false,
+    "created_at": "2024-10-05"
+  },
+  {
+    "id": 325,
+    "olfactory": "Trees",
+    "name": "John Galliano",
+    "notes": "The herbarium of trees",
+    "description": "A dark, intense leather, like a trusted companion on travels through time and across the globe. A scent that speaks of adventure and the open road. This candle – a tribute to fashion designer John Galliano – can be found exclusively on our website and in Diptyque boutiques.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/John_Galliano/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/John_Galliano/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/John_Galliano/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/John_Galliano/detail/detail_2.jpg"
+          ]
+        },
+        "optionId": 3251
+      }
+    ],
+    "collection": null,
+    "sales": 83,
+    "inStock": true,
+    "created_at": "2024-06-15"
+  },
+  {
+    "id": 326,
+    "olfactory": "Trees",
+    "name": "Musc(Musk)",
+    "notes": "The herbarium of trees",
+    "description": "A tender, senuous, infinitely captivating perfume. This candle evokes a sensual embrace and skin softly leaving its impression on a fabric. Musk was formerly of animal origin. Today, its nuances are recreated by perfumers.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Musc%28Musk%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Musc%28Musk%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Musc%28Musk%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Musc%28Musk%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Musc%28Musk%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3261
+      }
+    ],
+    "collection": null,
+    "sales": 359,
+    "inStock": false,
+    "created_at": "2024-04-13"
+  },
+  {
+    "id": 327,
+    "olfactory": "Trees",
+    "name": "Benjoin(Benzoin)",
+    "notes": "The herbarium of trees",
+    "description": "The captivating scent of benzoin as its sap is gathered from the tree, with dry notes of bark and warm, caramelised scents. A moment captured in a scented candle – an ode to a resin acclaimed across Asia and the Orient since antiquity.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Benjoin%28Benzoin%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Benjoin%28Benzoin%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Benjoin%28Benzoin%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Benjoin%28Benzoin%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Benjoin%28Benzoin%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3271
+      }
+    ],
+    "collection": null,
+    "sales": 157,
+    "inStock": true,
+    "created_at": "2023-05-05"
+  },
+  {
+    "id": 328,
+    "olfactory": "Trees",
+    "name": "Myrrhe(Myrrh)",
+    "notes": "The herbarium of trees",
+    "description": "The fragrant volutes of slow-burning myrrh resin - adored since ancient times for its balsamy scent with leathery, spicy nuances. An aromatic treasure as legendary as incense. The Myrrhe (Myrrh) scented candle is an invitation to travel back to an age when perfumes were offered to the gods.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Myrrhe%28Myrrh%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Myrrhe%28Myrrh%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Myrrhe%28Myrrh%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Myrrhe%28Myrrh%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Myrrhe%28Myrrh%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3281
+      }
+    ],
+    "collection": null,
+    "sales": 321,
+    "inStock": true,
+    "created_at": "2024-08-28"
+  },
+  {
+    "id": 329,
+    "olfactory": "Trees",
+    "name": "Cuir(Leather)",
+    "notes": "The herbarium of trees",
+    "description": "Captured within the scented wax, all the musky, flowery, slightly spicy accents of a soft, supple fine leather. A ladies' bag, possibly? The Cuir (Leather) candle evokes the everyday objects inside. Exclusive to our online stores and Diptyque boutiques.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cuir%28Leather%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cuir%28Leather%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cuir%28Leather%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cuir%28Leather%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cuir%28Leather%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3291
+      }
+    ],
+    "collection": null,
+    "sales": 460,
+    "inStock": true,
+    "created_at": "2024-04-18"
+  },
+  {
+    "id": 330,
+    "olfactory": "Fruits",
+    "name": "Baies (Berries)",
+    "notes": "The herbarium of fruits",
+    "description": "The tangy coolness of a few fresh-picked blackcurrant berries. Lively, flowery rose accents. The Baies (Berries) scented candle speaks of harmony - a coming together of flower and fruit.",
+    "options": [
+      {
+        "size": "small",
+        "price": 40,
+        "weight": "70g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3301
+      },
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3302
+      },
+      {
+        "size": "medium",
+        "price": 85,
+        "weight": "300g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_2.jpg"
+          ]
+        },
+        "optionId": 3303
+      },
+      {
+        "size": "large",
+        "price": 180,
+        "weight": "600g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3304
+      },
+      {
+        "size": "extra large",
+        "price": 315,
+        "weight": "1500g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_3.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_4.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Baies%28Berries%29/detail/detail_5.jpg"
+          ]
+        },
+        "optionId": 3305
+      }
+    ],
+    "collection": "Baies (Berries)",
+    "sales": 439,
+    "inStock": false,
+    "created_at": "2024-11-04"
+  },
+  {
+    "id": 331,
+    "olfactory": "Fruits",
+    "name": "Oranger(Orange Tree)",
+    "notes": "The herbarium of fruits",
+    "description": "Take a break. Savour the candied zest of bitter orange. The Oranger (Orange Tree) candle is a concentration of all the exquisite flavours in marmalade. It's time for tea. Already the air is filled with a fruity, bittersweet fragrance. A luminous, scented interlude.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Oranger%28Orange_Tree%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Oranger%28Orange_Tree%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Oranger%28Orange_Tree%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Oranger%28Orange_Tree%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Oranger%28Orange_Tree%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3311
+      }
+    ],
+    "collection": null,
+    "sales": 210,
+    "inStock": false,
+    "created_at": "2024-04-07"
+  },
+  {
+    "id": 332,
+    "olfactory": "Fruits",
+    "name": "Figuier (Fig Tree)",
+    "notes": "The herbarium of fruits",
+    "description": "Stretching endlessly along the Mediterranean shoreline: fig trees in the hot sun, their perfume borne on the warm wind. The Figuier (Fig Tree) scented candle portrays the entire tree. The intense fragrance of the wood blends with the green, slightly fruity accents of a handful of figs as they start to ripen. A foretaste of summer.",
+    "options": [
+      {
+        "size": "small",
+        "price": 40,
+        "weight": "70g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3321
+      },
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3322
+      },
+      {
+        "size": "medium",
+        "price": 85,
+        "weight": "300g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/detail/detail_2.jpg"
+          ]
+        },
+        "optionId": 3323
+      },
+      {
+        "size": "extra large",
+        "price": 315,
+        "weight": "1500g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/detail/detail_3.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/detail/detail_4.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Figuier%28Fig_Tree%29/detail/detail_5.jpg"
+          ]
+        },
+        "optionId": 3324
+      }
+    ],
+    "collection": "Figuier (Fig Tree)",
+    "sales": 111,
+    "inStock": true,
+    "created_at": "2024-04-29"
+  },
+  {
+    "id": 333,
+    "olfactory": "Fruits",
+    "name": "Coing(Quince)",
+    "notes": "The herbarium of fruits",
+    "description": "A perfume with a hint of apple and pear. Its fruity, familiar notes conjure up the flavour of quince preserve or quince paste. A scented candle with a fragrance so sweet, so tangy, that all your senses flash back instantly to mouthwatering treats enjoyed in childhood. A moment to savour. Exclusive to our online stores and Diptyque boutiques.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Coing%28Quince%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Coing%28Quince%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Coing%28Quince%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Coing%28Quince%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Coing%28Quince%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3331
+      }
+    ],
+    "collection": null,
+    "sales": 21,
+    "inStock": false,
+    "created_at": "2023-04-15"
+  },
+  {
+    "id": 334,
+    "olfactory": "Fruits",
+    "name": "Oyédo",
+    "notes": "The herbarium of fruits",
+    "description": "The yuzu – an Asian citrus fruit and a cousin to the lemon – appears here in all its glory, expressing its tangy, lively, almost spicy scent via the Oyédo scented candle. The zest of the fruit is enhanced with a hint of herbs. The overall effect is like a trip back in time to Edo, the ancient imperial city of Japan.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Oyédo/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Oyédo/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Oyédo/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Oyédo/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Oyédo/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3341
+      }
+    ],
+    "collection": null,
+    "sales": 302,
+    "inStock": false,
+    "created_at": "2024-08-08"
+  },
+  {
+    "id": 335,
+    "olfactory": "Spices",
+    "name": "Narguilé",
+    "notes": "The herbarium of spices",
+    "description": "An evocation of a ritual, As soon as the wick is lit, the air is enhanced with a hint of honey, tobacco leaves and a handful of spices. This scented candle is a tribute to the fragrant curls of smoke from a narguile and the warm, fruity, honeyed scent they carry with them.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Narguilé/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Narguilé/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Narguilé/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Narguilé/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Narguilé/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3351
+      }
+    ],
+    "collection": null,
+    "sales": 440,
+    "inStock": false,
+    "created_at": "2024-09-16"
+  },
+  {
+    "id": 336,
+    "olfactory": "Spices",
+    "name": "Vanille(Vanilla)",
+    "notes": "The herbarium of spices",
+    "description": "Leathery, almost smoky accents. Vanilla pods, dense and black, so fragrant that one alone is sufficient to perfume all you might require it to. It takes time and patience for the small pods to unveil their notes: a powerful, captivating fragrance, revealed in this scented candle.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Vanille%28Vanilla%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Vanille%28Vanilla%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Vanille%28Vanilla%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Vanille%28Vanilla%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Vanille%28Vanilla%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3361
+      }
+    ],
+    "collection": null,
+    "sales": 265,
+    "inStock": false,
+    "created_at": "2024-05-07"
+  },
+  {
+    "id": 337,
+    "olfactory": "Spices",
+    "name": "Cannelle(Cinnamon)",
+    "notes": "The herbarium of spices",
+    "description": "Sometimes woody and spicy – sometimes deliciously warm. Like the fragrance of cinnamon bark freshly stripped from the branches of the tree. The bark retains the captivating scents of India, its country of origin. Cannelle (Cinnamon) has a long history at Diptyque – indeed, it was one of the Maison's first three scented candles. Exclusive to our online stores and Diptyque boutiques.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cannelle%28Cinnamon%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cannelle%28Cinnamon%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cannelle%28Cinnamon%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cannelle%28Cinnamon%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Cannelle%28Cinnamon%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3371
+      }
+    ],
+    "collection": null,
+    "sales": 84,
+    "inStock": false,
+    "created_at": "2024-02-27"
+  },
+  {
+    "id": 338,
+    "olfactory": "Spices",
+    "name": "Thé(Tea)",
+    "notes": "The herbarium of spices",
+    "description": "Strong, smoky black tea leaves from far-off climes. Time and travel have infused them with spices and other treasures. Cumin, pepper, coriander. The Thé (Tea) scented candle is your getaway, rich in fragrances from around the globe. Exclusive to our website and Diptyque boutiques.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Th%C3%A9%28Tea%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Th%C3%A9%28Tea%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Th%C3%A9%28Tea%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Th%C3%A9%28Tea%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Th%C3%A9%28Tea%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3381
+      }
+    ],
+    "collection": null,
+    "sales": 332,
+    "inStock": false,
+    "created_at": "2023-06-14"
+  },
+  {
+    "id": 339,
+    "olfactory": "Spices",
+    "name": "Genévrier(Juniper)",
+    "notes": "The herbarium of spices",
+    "description": "A fragrance of surprising complexity. Spicy and smoky, irresistably lively but also aromatic, with a fruity bitterness borrowed from citrus peel. This scented candle fully and faithfully reproduces the appeal of the juniper berries that lend their aroma to countless specialties – including gin.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Gen%C3%A9vrier%28Juniper%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Gen%C3%A9vrier%28Juniper%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Gen%C3%A9vrier%28Juniper%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Gen%C3%A9vrier%28Juniper%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Gen%C3%A9vrier%28Juniper%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3391
+      }
+    ],
+    "collection": null,
+    "sales": 20,
+    "inStock": true,
+    "created_at": "2024-11-18"
+  },
+  {
+    "id": 340,
+    "olfactory": "Spices",
+    "name": "Pomander",
+    "notes": "The herbarium of spices",
+    "description": "The holidays draw near. The perfume of spices mingles with mouthwatering scents of candied peel and evokes oranges pierced with fragrant cloves. The spicy, fruity notes of the small Pomander scented candle add the finishing touch to any winter decorations..",
+    "options": [
+      {
+        "size": "small",
+        "price": 40,
+        "weight": "70g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Pomander/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Pomander/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Pomander/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Pomander/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Pomander/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3401
+      },
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Pomander/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Pomander/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Pomander/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Pomander/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Pomander/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3402
+      }
+    ],
+    "collection": null,
+    "sales": 349,
+    "inStock": false,
+    "created_at": "2024-12-25"
+  },
+  {
+    "id": 341,
+    "olfactory": "Herbs",
+    "name": "Verveine(Lemon Verbena Scented)",
+    "notes": "The herbarium of herbs",
+    "description": "Fresh, gentle and lively, with a delicate lemony zest, this scented candle summons up the fragrance of fresh-picked lemon verbena leaves crumpled in your hands. At the end of a long day, a moment apart. The body is soothed; the spirit, briefly, roams free.",
+    "options": [
+      {
+        "size": "small",
+        "price": 40,
+        "weight": "70g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Verveine%28Lemon_Verbena_Scented%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Verveine%28Lemon_Verbena_Scented%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Verveine%28Lemon_Verbena_Scented%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Verveine%28Lemon_Verbena_Scented%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Verveine%28Lemon_Verbena_Scented%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3411
+      },
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Verveine%28Lemon_Verbena_Scented%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Verveine%28Lemon_Verbena_Scented%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Verveine%28Lemon_Verbena_Scented%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Verveine%28Lemon_Verbena_Scented%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Verveine%28Lemon_Verbena_Scented%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3412
+      }
+    ],
+    "collection": null,
+    "sales": 455,
+    "inStock": false,
+    "created_at": "2023-06-09"
+  },
+  {
+    "id": 342,
+    "olfactory": "Herbs",
+    "name": "Patchouli",
+    "notes": "The herbarium of herbs",
+    "description": "An island in Indonesia. Fresh-cut patchouli leaves taken from shrubs blossoming in the shade. At present, they are being dried out. Once lit, this candle releases their perfume in full: dense and dark, charged with earthy, woody, almost camphorated accents.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Patchouli/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Patchouli/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Patchouli/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Patchouli/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Patchouli/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3421
+      }
+    ],
+    "collection": null,
+    "sales": 140,
+    "inStock": false,
+    "created_at": "2023-05-11"
+  },
+  {
+    "id": 343,
+    "olfactory": "Herbs",
+    "name": "L'Elide",
+    "notes": "The herbarium of herbs",
+    "description": "L’Elide evokes the epic tale of the rustic Roman goddess Fauna and the scent of bitter orange peel essences, of aromatic plants and of wild lavender. On the matte black biscuit of the vessel, we glimpse the face of this mythical creature who so fascinated Desmond Knox-Leet.",
+    "options": [
+      {
+        "size": "medium",
+        "price": 70,
+        "weight": "220g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/L'Elide/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/L'Elide/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/L'Elide/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/L'Elide/detail/detail_2.jpg"
+          ]
+        },
+        "optionId": 3431
+      }
+    ],
+    "collection": null,
+    "sales": 443,
+    "inStock": true,
+    "created_at": "2023-02-13"
+  },
+  {
+    "id": 344,
+    "olfactory": "Herbs",
+    "name": "Mousses(Moss)",
+    "notes": "The herbarium of herbs",
+    "description": "All the perfumes of the forest: the moistness of soil beneath the undergrowth, the woody depth of centuries-old trees, the familiar plant accents of fungi growing in the earth. When the Mousses (Moss) scented candle is lit, nature itself enters the room. Available exclusively on our website and in Diptyque boutiques.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Mousses%28Moss%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Mousses%28Moss%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Mousses%28Moss%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Mousses%28Moss%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Mousses%28Moss%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3441
+      }
+    ],
+    "collection": null,
+    "sales": 277,
+    "inStock": true,
+    "created_at": "2023-03-17"
+  },
+  {
+    "id": 345,
+    "olfactory": "Herbs",
+    "name": "Feuille de Lavande(Lavender Leaf)",
+    "notes": "The herbarium of herbs",
+    "description": "Aa far as the eye can see, a symphony in blue. In the midst of the lavender fields, the mineral scent of the earth adds flavour to the lively rustic notes of these little flowers. The Feuille de Lavande (Lavender Leaf) candle evokes a summer sky, and lavender bushes perched on the hillsides of Haute Provence.",
+    "options": [
+      {
+        "size": "small",
+        "price": 40,
+        "weight": "70g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feuille_de_Lavande%28Lavender_Leaf%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feuille_de_Lavande%28Lavender_Leaf%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feuille_de_Lavande%28Lavender_Leaf%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feuille_de_Lavande%28Lavender_Leaf%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feuille_de_Lavande%28Lavender_Leaf%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3451
+      },
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feuille_de_Lavande%28Lavender_Leaf%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feuille_de_Lavande%28Lavender_Leaf%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feuille_de_Lavande%28Lavender_Leaf%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feuille_de_Lavande%28Lavender_Leaf%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Feuille_de_Lavande%28Lavender_Leaf%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3452
+      }
+    ],
+    "collection": null,
+    "sales": 17,
+    "inStock": true,
+    "created_at": "2023-05-16"
+  },
+  {
+    "id": 346,
+    "olfactory": "Herbs",
+    "name": "Eucalyptus",
+    "notes": "The herbarium of herbs",
+    "description": "A forest of eucalyptus trees, their trunks stretching skywards. Green, lively, aromatic notes with camphorated nuances. The candle reveals the scent of silvery leaves, crushed in the hand to release their full fragrance.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Eucalyptus/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Eucalyptus/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Eucalyptus/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Eucalyptus/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Eucalyptus/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3461
+      }
+    ],
+    "collection": null,
+    "sales": 35,
+    "inStock": true,
+    "created_at": "2024-10-09"
+  },
+  {
+    "id": 347,
+    "olfactory": "Herbs",
+    "name": "Vétyver(Vetiver)",
+    "notes": "The herbarium of herbs",
+    "description": "In tropical Asia, vetiver roots, with their woody, smoky scent, have long been used to make fans, mats and decorative objects. The Vetyver (Vetiver) scented candle is an ode to a plant often used to perfume temples and homes.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/V%C3%A9tyver%28Vetiver%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/V%C3%A9tyver%28Vetiver%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/V%C3%A9tyver%28Vetiver%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/V%C3%A9tyver%28Vetiver%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/V%C3%A9tyver%28Vetiver%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3471
+      }
+    ],
+    "collection": null,
+    "sales": 19,
+    "inStock": true,
+    "created_at": "2023-11-14"
+  },
+  {
+    "id": 348,
+    "olfactory": "Herbs",
+    "name": "Foin Coupé(Fresh Mown Hay)",
+    "notes": "The herbarium of herbs",
+    "description": "A sillage bearing the fragrance of stems dried in the summer sun. Of wild herbs and flowers and the scent of their honeyed pollen. The Foin Coupé (Fresh Mown Hay) candle celebrates all the charms of the countryside and its flowery, herbaceous perfume. Exclusive to our online stores and Diptyque boutiques.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Foin_Coup%C3%A9%28Fresh_Mown_Hay%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Foin_Coup%C3%A9%28Fresh_Mown_Hay%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Foin_Coup%C3%A9%28Fresh_Mown_Hay%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Foin_Coup%C3%A9%28Fresh_Mown_Hay%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Foin_Coup%C3%A9%28Fresh_Mown_Hay%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3481
+      }
+    ],
+    "collection": null,
+    "sales": 85,
+    "inStock": true,
+    "created_at": "2024-03-03"
+  },
+  {
+    "id": 349,
+    "olfactory": "Herbs",
+    "name": "Menthe Verte(Spearmint)",
+    "notes": "The herbarium of herbs",
+    "description": "The scent of a field of wild mint. The lively, aromatic accents of green leaves and the more complex, almost resinous perfume of the stems. The Menthe Verte (Spearmint) scented candle is an olfactory portrait as rich as a botanical study.",
+    "options": [
+      {
+        "size": "classic",
+        "price": 60,
+        "weight": "190g",
+        "images": {
+          "thumbnail": {
+            "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Menthe_Verte%28Spearmint%29/thumbnail/default.jpg",
+            "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Menthe_Verte%28Spearmint%29/thumbnail/hover.jpg"
+          },
+          "detail": [
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Menthe_Verte%28Spearmint%29/detail/detail_1.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Menthe_Verte%28Spearmint%29/detail/detail_2.jpg",
+            "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/candle/Menthe_Verte%28Spearmint%29/detail/detail_3.jpg"
+          ]
+        },
+        "optionId": 3491
+      }
+    ],
+    "collection": null,
+    "sales": 188,
+    "inStock": false,
+    "created_at": "2023-03-27"
+  }
+]

@@ -1,0 +1,1402 @@
+[
+    {
+        "id": 100,
+        "olfactory": "Trees",
+        "name": "34 Boulevard Saint Germain",
+        "type": "Scented soap",
+        "keyword": [
+            {"note":"Amber/patchouli accord"},
+            {"note":"Rose"},
+            {"note":"Cinnamon"}
+        ],
+        "description": "The Diptyque spirit in a fragrance gesture. Enriched with sweet almond oil, 34 Boulevard Saint-Germain soap envelops the skin with a scented sillage. Rose, blackcurrant buds and spices blend together in a delicate foam. A ritual for the bath that fully encapsulates the Maison's art of living.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "200g",
+                "price": 38,
+                "weight": "200g",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/34_Boulevard_Saint_Germain/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/34_Boulevard_Saint_Germain/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/34_Boulevard_Saint_Germain/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/34_Boulevard_Saint_Germain/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1001
+            }
+        ],
+        "collection": "34 Boulevard Saint Germain",
+        "sales": 213,
+        "inStock": true,
+        "created_at": "2024-07-18"
+    },
+    {
+        "id": 101,
+        "olfactory": "Floral",
+        "name": "Do Son",
+        "type": "Body mist",
+        "keyword": [
+            {"note":"Tuberose"},
+            {"note":"Orange blossom"},
+            {"note":"Jasmine"}
+        ],
+        "description": "Some travels leave their imprint upon the skin. Hazy as a sea breeze, this body mist extends the sillage of Do Son. Concentrated in a moisturising white lotus extract, it leaves the skin with an irresistibly soft, powdery finish. An ode to tuberose - in a ritual that carries the scent of a memory.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "200ml",
+                "price": 58,
+                "weight": "200ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Body_mist/Do_Son/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Body_mist/Do_Son/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Body_mist/Do_Son/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Body_mist/Do_Son/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1011
+            }
+        ],
+        "collection": "Do Son",
+        "sales": 467,
+        "inStock": true,
+        "created_at": "2023-06-21"
+    },
+    {
+        "id": 102,
+        "olfactory": "Floral",
+        "name": "Do Son",
+        "type": "Perfumed hand cream",
+        "keyword": [
+            {"note":"Tuberose"},
+            {"note":"Orange blossom"},
+            {"note":"Jasmine"}
+        ],
+        "description": "A perfumed caress. This scented hand cream is as sweet as a childhood memory and as sensual as a fragrance - a tuberose cooled by the sea spray. With a rich texture and a formulation of aloe vera and macadamia oil, this hand cream perfumes the hands in a simple, exquisitely delicate gesture.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "45ml",
+                "price": 40,
+                "weight": "45ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Do_Son/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Do_Son/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Do_Son/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Do_Son/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1021
+            }
+        ],
+        "collection": "Do Son",
+        "sales": 91,
+        "inStock": true,
+        "created_at": "2023-07-10"
+    },
+    {
+        "id": 103,
+        "olfactory": "Floral",
+        "name": "Do Son",
+        "type": "Scented shower oil",
+        "keyword": [
+            {"note":"Tuberose"},
+            {"note":"Orange blossom"},
+            {"note":"Jasmine"}
+        ],
+        "description": "Do Son shower oil is a scented interlude with surprisingly sensuous qualities. In the shower or the bath, it transforms into a silky emulsion. With floral notes that evoke a tuberose, its fragrance borne on the sea breeze. The apricot seed oil formulation washes and scents the skin intensively. Just one gesture does the trick.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "200ml",
+                "price": 52,
+                "weight": "200ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_shower_oil/Do_Son/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_shower_oil/Do_Son/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_shower_oil/Do_Son/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_shower_oil/Do_Son/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1031
+            }
+        ],
+        "collection": "Do Son",
+        "sales": 26,
+        "inStock": false,
+        "created_at": "2024-06-22"
+    },
+    {
+        "id": 104,
+        "olfactory": "Floral",
+        "name": "Do Son",
+        "type": "Scented soap",
+        "keyword": [
+            {"note":"Tuberose"},
+            {"note":"Orange blossom"},
+            {"note":"Jasmine"}
+        ],
+        "description": "An escape for the senses. Do Son soap evokes a memory of a childhood in Vietnam, lulled by the voluptuous, spicy notes of the tuberoses. Composed of a plant base enriched with sweet almond oil, this soap envelops the skin with a delicate foam bearing a fragrance that is floral and subtly spicy. An olfactory journey.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "150g",
+                "price": 35,
+                "weight": "150g",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Do_Son/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Do_Son/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Do_Son/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Do_Son/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1041
+            }
+        ],
+        "collection": "Do Son",
+        "sales": 469,
+        "inStock": false,
+        "created_at": "2023-09-05"
+    },
+    {
+        "id": 105,
+        "olfactory": "Floral",
+        "name": "Eau Capitale",
+        "type": "Perfumed hand cream",
+        "keyword": [
+            {"note":"Rose"},
+            {"note":"Bergamot"},
+            {"note":"Patchouli"}
+        ],
+        "description": "Paris at your fingertips. In Eau Capitale scented hand cream, a chypre with a thousand facets is revealed. First you're caressed by rose, then gripped by bergamot given extra bite by pink peppercorns. On the hands, much more than a fragrance gesture. A tribute to Paris.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter",
+        "options": [
+            {
+                "size": "45ml",
+                "price": 40,
+                "weight": "45ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Eau_Capitale/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Eau_Capitale/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Eau_Capitale/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Eau_Capitale/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1051
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Eau Capitale"
+            }
+        ],
+        "sales": 300,
+        "inStock": false,
+        "created_at": "2024-01-09"
+    },
+    {
+        "id": 106,
+        "olfactory": "Floral",
+        "name": "Eau des Sens",
+        "type": "Scented cleansing hand and body gel",
+        "keyword": [
+            {"note":"Orange blossom"},
+            {"note":"Angelica root"},
+            {"note":"Patchouli"},
+            {"note":"Juniper berry"}
+        ],
+        "description": "An ode to bitter orange. In the shower, Eau des Sens hand and body gel becomes a light, silky cleansing foam. In this bracing cascade, orange blossom and bitter orange are refreshed by lively notes of juniper berries and petitgrain. A wake-up call for the senses.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "200ml",
+                "price": 48,
+                "weight": "200ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_cleansing_hand_and_body_gel/Eau_des_Sens/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_cleansing_hand_and_body_gel/Eau_des_Sens/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_cleansing_hand_and_body_gel/Eau_des_Sens/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_cleansing_hand_and_body_gel/Eau_des_Sens/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1061
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Eau des Sens"
+            }
+        ],
+        "sales": 399,
+        "inStock": true,
+        "created_at": "2023-11-02"
+    },
+    {
+        "id": 107,
+        "olfactory": "Floral",
+        "name": "Eau des Sens",
+        "type": "Scented soap",
+        "keyword": [
+            {"note":"Orange blossom"},
+            {"note":"Angelica root"},
+            {"note":"Patchouli"},
+            {"note":"Juniper berry"}
+        ],
+        "description": "A scented interlude - an invitation to dream. Enriched with sweet almond oil, Eau des Sens soap highlights the entire bigarade. In the shower or the bath, the delicate, fragranced foam reveals the lively, flowery, delicately fruity notes of bitter orange. A heady fragrance that stimulates the senses.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "150g",
+                "price": 35,
+                "weight": "150g",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Eau_des_Sens/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Eau_des_Sens/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Eau_des_Sens/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Eau_des_Sens/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1071
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Eau des Sens"
+            }
+        ],
+        "sales": 303,
+        "inStock": true,
+        "created_at": "2023-09-23"
+    },
+    {
+        "id": 108,
+        "olfactory": "Amber",
+        "name": "Eau Rihla",
+        "type": "Perfumed body balm",
+        "keyword": [
+            {"note":"Leather"},
+            {"note":"Iris"},
+            {"note":"Patchouli"},
+            {"note":"Cedarwood Heart"}
+        ],
+        "description": "Notes of leather and spice work sensory magic. This soft melting body balm extends the enchanting trail of Eau Rihla. This new body balm is enriched with mango butter and candelilla wax to nourish and comfort the skin, scenting it with the luxurious notes of Eau Rihla.",
+        "story": "Eau Rihla is inspired by journeys along the routes of the Middle East, which have nourished diptyque's imagination since the origins of the Maison. Conceived as the chronicle of a long journey, the perfume features a leather that changes throughout its composition.At first, the spicy liveliness of Pink Peppercorn and the woody notes of Atlas Cedar create a vibrant accord. Then, as Iris, Vanilla and Saffron come into play, the fragrance warms up and softens, elegantly perfuming the hair.Rihla means “journey” in Arabic. For diptyque, it becomes a journey whose olfactory imprint instantly reawakens the memory of other inspiring and captivating horizons. The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "200g",
+                "price": 95,
+                "weight": "200g",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_body_balm/Eau_Rihla/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_body_balm/Eau_Rihla/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_body_balm/Eau_Rihla/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_body_balm/Eau_Rihla/detail/detail_2.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_body_balm/Eau_Rihla/detail/detail_3.jpg"
+                    ]
+                },
+                "optionId": 1081
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Eau Rihla"
+            }
+        ],
+        "sales": 235,
+        "inStock": true,
+        "created_at": "2024-01-18"
+    },
+    {
+        "id": 109,
+        "olfactory": "Floral",
+        "name": "Eau Rose",
+        "type": "Perfumed hand and body lotion",
+        "keyword": [
+            {"note":"Damascena rose"},
+            {"note":"Centifolia rose"},
+            {"note":"Litchi accord"},
+            {"note":"Ambroxan"}
+        ],
+        "description": "Barely milky, as delicate as a perfumed lotion. When applied to body and hands, Eau Rose lotion brings unknown facets of the fragrance to life. At the heart of the composition lies an infusion of flowers nuanced with green, almost lemony accents - a bit like a duo of dormant petals and leaves, activated by the addition of a citrus zest..",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "200ml",
+                "price": 58,
+                "weight": "200ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_and_body_lotion/Eau_Rose/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_and_body_lotion/Eau_Rose/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_and_body_lotion/Eau_Rose/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_and_body_lotion/Eau_Rose/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1091
+            }
+        ],
+        "collection": "Eau Rose",
+        "sales": 148,
+        "inStock": false,
+        "created_at": "2024-09-24"
+    },
+    {
+        "id": 110,
+        "olfactory": "Floral",
+        "name": "Eau Rose",
+        "type": "Perfumed hand cream",
+        "keyword": [
+            {"note":"Damascena rose"},
+            {"note":"Centifolia rose"},
+            {"note":"Litchi accord"}
+        ],
+        "description": "Perfumed comfort. This hand cream extends the sillage of Eau Rose in an ode to the emblematic flower of perfumers. This balm combines damascena and centifolia, the loveliest roses. With a rich texture and a formulation of aloe vera and macademaia oil, it protects your hands while enveloping them in a gentle layer of fragrance.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "45ml",
+                "price": 40,
+                "weight": "45ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Eau_Rose/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Eau_Rose/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Eau_Rose/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Eau_Rose/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1101
+            }
+        ],
+        "collection": "Eau Rose",
+        "sales": 207,
+        "inStock": true,
+        "created_at": "2024-12-06"
+    },
+    {
+        "id": 111,
+        "olfactory": "Floral",
+        "name": "Eau Rose",
+        "type": "Scented shower foam",
+        "keyword": [
+            {"note":"Damascena rose"},
+            {"note":"Centifolia rose"},
+            {"note":"Litchi accord"}
+        ],
+        "description": "An indulgence. Upon contact with water, Eau Rose shower foam is transformed, becoming as velvety as whipped cream. The transparent gel evokes an infusion of roses, combining floral damascena notes with fruity accents of litchi. Softens and scents the skin.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "150ml",
+                "price": 48,
+                "weight": "150ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_shower_foam/Eau_Rose/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_shower_foam/Eau_Rose/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_shower_foam/Eau_Rose/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_shower_foam/Eau_Rose/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1111
+            }
+        ],
+        "collection": "Eau Rose",
+        "sales": 302,
+        "inStock": false,
+        "created_at": "2024-09-11"
+    },
+    {
+        "id": 112,
+        "olfactory": "Floral",
+        "name": "Eau Rose",
+        "type": "Scented soap",
+        "keyword": [
+            {"note":"Damascena rose"},
+            {"note":"Centifolia rose"},
+            {"note":"Litchi accord"}
+        ],
+        "description": "As if by magic - in the shower or the bath, Eau Rose soap transforms into a delicate, scented foam. Enriched with sweet almond oil, created as an infusion of damascena and centifolia - the loveliest of all roses - this soap envelops the skin with a bewitching sillage.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "150g",
+                "price": 35,
+                "weight": "150g",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Eau_Rose/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Eau_Rose/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Eau_Rose/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Eau_Rose/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1121
+            }
+        ],
+        "collection": "Eau Rose",
+        "sales": 323,
+        "inStock": true,
+        "created_at": "2023-09-12"
+    },
+    {
+        "id": 113,
+        "olfactory": "Exfoliating",
+        "name": "Exfoliating ointment",
+        "type": "for the body",
+        "keyword": "Velvety, creamy, regenerating",
+        "description": "For a smooth, silky skin. This velvety body polish with exfoliating grains delivers all the benevolence of the pomegranate, queen of fruits. Perfumed with Arabian jasmine, pink peppercorn and peach, this rich, creamy-textured care product combines the fine qualities of pomegranate oil, jasmine floral water and peach butter.",
+        "story": null,
+        "options": [
+            {
+                "size": "200ml",
+                "price": 58,
+                "weight": "200ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_body/Exfoliating_ointment/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_body/Exfoliating_ointment/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_body/Exfoliating_ointment/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_body/Exfoliating_ointment/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1131
+            }
+        ],
+        "collection": "Exfoliating",
+        "sales": 95,
+        "inStock": true,
+        "created_at": "2023-08-02"
+    },
+    {
+        "id": 114,
+        "olfactory": "Exfoliating",
+        "name": "Exfoliating Wash",
+        "type": "For the hands",
+        "keyword": "Refreshing, foaming, cleansing",
+        "description": "A prelude to moisturising. Enriched with ground olive stones, this hand wash cleans and purifies the hands, leaving them soft and exfoliated.Plunging you deep into an aromatic garden, it envelops the skin with green, floral and woody notes, intermingling to highlight the full splendour of the laurel flower.",
+        "story": null,
+        "options": [
+            {
+                "size": "350ml",
+                "price": 62,
+                "weight": "350ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_hands/Exfoliating_Wash/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_hands/Exfoliating_Wash/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_hands/Exfoliating_Wash/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_hands/Exfoliating_Wash/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1141
+            }
+        ],
+        "collection": "Exfoliating",
+        "sales": 262,
+        "inStock": true,
+        "created_at": "2023-02-01"
+    },
+    {
+        "id": 115,
+        "olfactory": "Floral",
+        "name": "Fleur de Peau",
+        "type": "Cleansing hand and body gel",
+        "keyword": [
+            {"note": "Musk"},
+            {"note": "Iris"},
+            {"note": "Ambrette"},
+            {"note": "Pink peppercorn"}
+        ],
+        "description": "A tribute to the sensual, stimulating qualities of musk. On contact with water, this gel becomes an unbelievably silky cleansing foam. Enriched with shea butter, it perfumes the body intensively while leaving it softened and invigorated. Musk, with nuances of iris and ambrette seed, enhances the skin with a timeless fragrance.",
+        "story": "In this bottle lives a legend transformed into a perfume. Fleur de Peau celebrates passion and sensuality while honouring the myth of Eros and Psyche and the daughter born from their love, Hedone. At the heart of the composition is musk, its stimulating, carnal accents exalting the skin. Combined with iris, it evokes perfumes of days gone by and in particular the Renaissance era, when this accord was used for scenting gloves. Diptyque's fragrance gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal fragrancing that renders the invisible perceptible and the ethereal tangible. Each of the gestures – Eau de Toilette, Shower Oil, Body Mist and Body Balm – contains a specific concentrate, with a galenic formulation designed to offer optimised olfactory reproduction. With its high concentration, it can often be used alone depending on the moment and the mood. The never-ending dance of scent and matter...",
+        "options": [
+            {
+                "size": "200ml",
+                "price": 48,
+                "weight": "200ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Cleansing_hand_and_body_gel/Fleur_de_Peau/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Cleansing_hand_and_body_gel/Fleur_de_Peau/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Cleansing_hand_and_body_gel/Fleur_de_Peau/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Cleansing_hand_and_body_gel/Fleur_de_Peau/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1151
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Fleur de Peau"
+            }
+        ],
+        "sales": 189,
+        "inStock": false,
+        "created_at": "2024-12-08"
+    },
+    {
+        "id": 116,
+        "olfactory": "Floral",
+        "name": "Fleur de Peau",
+        "type": "Hand and body lotion",
+        "keyword": [
+            {"note": "Musk"},
+            {"note": "Iris"},
+            {"note": "Ambrette"},
+            {"note": "Pink peppercorn"}
+        ],
+        "description": "A legendary perfume – musk nuanced with fruity, amber-scented accents. A lotion full of contrasts, generating an intense vibrancy in every facet of Fleur de Peau. Its delicacy envelops the body and hands, leaving the skin well moisturised. This is the secret of a long-lasting sillage.",
+        "story": "In this bottle lives a legend transformed into a perfume. Fleur de Peau celebrates passion and sensuality while honouring the myth of Eros and Psyche and the daughter born from their love, Hedone. At the heart of the composition is musk, its stimulating, carnal accents exalting the skin. Combined with iris, it evokes perfumes of days gone by and in particular the Renaissance era, when this accord was used for scenting gloves. Diptyque's fragrance gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal fragrancing that renders the invisible perceptible and the ethereal tangible. Each of the gestures – Eau de Toilette, Shower Oil, Body Mist and Body Balm – contains a specific concentrate, with a galenic formulation designed to offer optimised olfactory reproduction. With its high concentration, it can often be used alone depending on the moment and the mood. The never-ending dance of scent and matter...",
+        "options": [
+            {
+                "size": "200ml",
+                "price": 58,
+                "weight": "200ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Hand_and_body_lotion/Fleur_de_Peau/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Hand_and_body_lotion/Fleur_de_Peau/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Hand_and_body_lotion/Fleur_de_Peau/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Hand_and_body_lotion/Fleur_de_Peau/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1161
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Fleur de Peau"
+            }
+        ],
+        "sales": 406,
+        "inStock": true,
+        "created_at": "2024-04-27"
+    },
+    {
+        "id": 117,
+        "olfactory": "Floral",
+        "name": "Fleur de Peau",
+        "type": "Perfumed body balm",
+        "keyword": [
+            {"note": "Musk"},
+            {"note": "Iris"},
+            {"note": "Ambrette"}
+        ],
+        "description": "The soothing, cottony lightness of musks in a a body balm with fabulous sensorial qualities. The velvety density envelops the body with the softness of mango butter and candellila wax. When applied, the balm surprises and delights with a shiver of coolness and the sillage of Fleur de Peau.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "200ml",
+                "price": 75,
+                "weight": "200ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_body_balm/Fleur_de_Peau/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_body_balm/Fleur_de_Peau/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_body_balm/Fleur_de_Peau/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_body_balm/Fleur_de_Peau/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1171
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Fleur de Peau"
+            }
+        ],
+        "sales": 407,
+        "inStock": false,
+        "created_at": "2024-09-29"
+    },
+    {
+        "id": 118,
+        "olfactory": "Floral",
+        "name": "Fleur de Peau",
+        "type": "Perfumed hand cream",
+        "keyword": [
+            {"note": "Musk"},
+            {"note": "Iris"},
+            {"note": "Ambrette"}
+        ],
+        "description": "Musks with with cottony, downy notes. Made with aloe vera and macadamia oil, this hand cream extends the sillage of Fleur de Peau. A comforting break, enhanced with a fragrance composed as a tribute to a myth from antiquity: the love of Eros and Psyche.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "45ml",
+                "price": 40,
+                "weight": "45ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Fleur_de_Peau/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Fleur_de_Peau/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Fleur_de_Peau/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_cream/Fleur_de_Peau/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1181
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Fleur de Peau"
+            }
+        ],
+        "sales": 111,
+        "inStock": true,
+        "created_at": "2024-09-23"
+    },
+    {
+        "id": 119,
+        "olfactory": null,
+        "name": "Fresh Lotion",
+        "type": "for the body",
+        "keyword": "Fluid, fresh, velvety",
+        "description": "The scent of orange blossom on a morning breeze across the bay of Alexandria. This deliciously fresh lotion hydrates and softens skin that is still sleepy. Refreshed, it gently wakes up, delicately perfumed by the green, citric scent of petitgrain combined with soothing, musky notes of orange blossom.",
+        "story": null,
+        "options": [
+            {
+                "size": "250ml",
+                "price": 58,
+                "weight": "250ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_body/Fresh_Lotion/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_body/Fresh_Lotion/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_body/Fresh_Lotion/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_body/Fresh_Lotion/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1191
+            }
+        ],
+        "collection": null,
+        "sales": 407,
+        "inStock": false,
+        "created_at": "2023-12-24"
+    },
+    {
+        "id": 120,
+        "olfactory": "Woody",
+        "name": "L'Eau Papier",
+        "type": "Scented cleansing hand and body gel",
+        "keyword": [
+            {"note": "White musks"},
+            {"note": "Mimosa"},
+            {"note": "Blonde woods accord"},
+            {"note": "Rice steam accord"}
+        ],
+        "description": "On contact with water, L'Eau Papier cleansing gel becomes a light, silky foam. An enchanting gesture with notes of white musks, mimosa and blonde woods. Enriched with shea butter, it perfumes the body intensively while leaving it softened and invigorated. Settling onto the skin, the accords in L'Eau Papier prompt us to create, expressing our fantasies in drawings",
+        "story": "As ink soaks into a sheet of white paper, shadows emerge. Worlds are invented. L'Eau Papier celebrates the power of the imagination – that moment, suspended in time, when ink, paper and the hand become one.An encounter made perfume, plunging us into the heart of musk and its multiple facets. Musk evolves, changes, expresses itself over time and from one skin to another, just as ink saturates paper, assuming its texture to conjure up dreams and images. In L'Eau Papier, white musks are delicately faceted by an accord of rice steam, evoking the grain of the paper. To these are added luminous notes of mimosa, while a backdrop of blonde wood tones roots L'Eau Papier in the material itself. The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "200ml",
+                "price": 48,
+                "weight": "200ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_cleansing_hand_and_body_gel/L'Eau_Papier/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_cleansing_hand_and_body_gel/L'Eau_Papier/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_cleansing_hand_and_body_gel/L'Eau_Papier/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_cleansing_hand_and_body_gel/L'Eau_Papier/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1201
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "L'Eau Papier"
+            }
+        ],
+        "sales": 48,
+        "inStock": false,
+        "created_at": "2023-07-01"
+    },
+    {
+        "id": 121,
+        "olfactory": "Floral",
+        "name": "L'Ombre dans l'Eau",
+        "type": "Scented soap",
+        "keyword": [
+            {"note": "Rose"},
+            {"note": "Blackcurrant buds"},
+            {"note": "Petitgrain"}
+        ],
+        "description": "A scented interlude, an invitation to dream. In a delicate foam, fruity but tart blackcurrant accents mingle with the intensity of the rose. L’Ombre dans l’Eau soap paints a romantic tableau in fragrances. Composed with sweet almond oil, this fragrance gesture leaves a fresh, silky layer on the skin.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "150g",
+                "price": 35,
+                "weight": "150g",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/L'Ombre_dans_l'Eau/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/L'Ombre_dans_l'Eau/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/L'Ombre_dans_l'Eau/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/L'Ombre_dans_l'Eau/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1211
+            }
+        ],
+        "collection": "L'Ombre dans l'Eau",
+        "sales": 446,
+        "inStock": false,
+        "created_at": "2024-12-06"
+    },
+    {
+        "id": 122,
+        "olfactory": null,
+        "name": "Luxurious balm",
+        "type": "For the hands",
+        "keyword": "Protective, fine, silky",
+        "description": "Exquisitely mild. This luxurious hand balm conjures up childhood memories of almonds and the rounded, velvety scent of apricots in the groves of Cordoba. Combining apricot seed oil, argan oil and shea butter, this care product is a blessing for hands as well as dry areas on the body. A simple gesture that softens and brings relief.",
+        "story": null,
+        "options": [
+            {
+                "size": "45ml",
+                "price": 42,
+                "weight": "45ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_hands/Luxurious_balm/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_hands/Luxurious_balm/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_hands/Luxurious_balm/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_hands/Luxurious_balm/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1221
+            }
+        ],
+        "collection": null,
+        "sales": 42,
+        "inStock": false,
+        "created_at": "2023-06-27"
+    },
+    {
+        "id": 123,
+        "olfactory": "Woody",
+        "name": "Orphéon",
+        "type": "Cleansing hand and body gel",
+        "keyword": [
+            {"note": "Juniper berry"},
+            {"note": "Cedar"},
+            {"note": "Tonka bean"},
+            {"note": "Jasmine"}
+        ],
+        "description": "Orphéon now includes a new ritual - a cleansing gel featuring an olfactory tribute to a legendary bar frequented by the founders of Diptyque.Tonka bean, cedar and juniper berries create a light, silky foam that fully conveys the effervescence of Boulevard Saint-Germain in the sixties. An exhilarating feeling.",
+        "story": "In the 1960s, the Saint-Germain quarter in Paris lived to the beat of all-nighters and artistic encounters. Orphéon was one of the bars buzzing with energy, where the founders of diptyque liked to meet up. The atmosphere was warm and people could relax to the sound of jazz... Today, all that remains of Orphéon is a faceted blue column in the back of the boutique at 34 boulevard Saint-Germain. The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "200ml",
+                "price": 48,
+                "weight": "200ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Cleansing_hand_and_body_gel/Orphéon/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Cleansing_hand_and_body_gel/Orphéon/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Cleansing_hand_and_body_gel/Orphéon/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Cleansing_hand_and_body_gel/Orphéon/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1231
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Orphéon"
+            }
+        ],
+        "sales": 5,
+        "inStock": false,
+        "created_at": "2023-09-28"
+    },
+    {
+        "id": 124,
+        "olfactory": "Woody",
+        "name": "Philosykos",
+        "type": "Perfumed hand and body lotion",
+        "keyword": [
+            {"note": "Fig leaves"},
+            {"note": "Fig tree sap"},
+            {"note": "Fig tree wood"},
+            {"note": "Black pepper"}
+        ],
+        "description": "Filled with contrast. Despite its delicacy, this Philosykos hand and body lotion delivers an intensity that brings the fragrance to life. In its sillage, the milky flavour of figs, the green freshness of fig leaves and the density of white wood. As gentle on the skin as the memory of a summer in Greece.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "200ml",
+                "price": 58,
+                "weight": "200ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_and_body_lotion/Philosykos/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_and_body_lotion/Philosykos/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_and_body_lotion/Philosykos/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Perfumed_hand_and_body_lotion/Philosykos/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1241
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Philosykos"
+            }
+        ],
+        "sales": 322,
+        "inStock": false,
+        "created_at": "2024-06-17"
+    },
+    {
+        "id": 125,
+        "olfactory": "Woody",
+        "name": "Philosykos",
+        "type": "Scented cleansing hand and body gel",
+        "keyword": [
+            {"note": "Fig leaves"},
+            {"note": "Fig tree sap"},
+            {"note": "Fig tree wood"},
+            {"note": "Black pepper"}
+        ],
+        "description": "Between the memory and the journey. On contact with water, Philosykos hand and body gel turns into a light, silky foam. In its sillage, the green freshness of fig leaves, the density of white wood, the milky flavour of figs. Like treating your whole body to a dive deep into the fragrance.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "200ml",
+                "price": 48,
+                "weight": "200ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_cleansing_hand_and_body_gel/Philosykos/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_cleansing_hand_and_body_gel/Philosykos/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_cleansing_hand_and_body_gel/Philosykos/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_cleansing_hand_and_body_gel/Philosykos/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1251
+            }
+        ],
+        "collection": "Philosykos",
+        "sales": 195,
+        "inStock": true,
+        "created_at": "2024-01-27"
+    },
+    {
+        "id": 126,
+        "olfactory": "Woody",
+        "name": "Philosykos",
+        "type": "Scented soap",
+        "keyword": [
+            {"note": "Fig leaves"},
+            {"note": "Fig tree sap"},
+            {"note": "Fig tree wood"},
+            {"note": "Black pepper"}
+        ],
+        "description": "On your hands, the entire fig tree. The delicate, intensely scented foam of Philosykos soap delivers an interlude of softness. On the skin, a formulation enriched with sweet almond oil expresses the freshness of leaves, the density of white wood and the milky flavour of figs. A memory of a Greek summer and a sun-drenched grove.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "150g",
+                "price": 35,
+                "weight": "150g",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Philosykos/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Philosykos/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Philosykos/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Philosykos/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1261
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Philosykos"
+            }
+        ],
+        "sales": 75,
+        "inStock": true,
+        "created_at": "2023-04-23"
+    },
+    {
+        "id": 127,
+        "olfactory": "Refill",
+        "name": "Exfoliating Wash",
+        "type": "for the hands",
+        "keyword": "Refreshing, foaming, cleansing",
+        "description": "An unprecedented deep dive into an aromatic garden. Enriched with ground olive stones, this refill prolongs the story of the Exfoliating Hand Wash. Use before moisturising to clean and purify the skin. On the hands, a blend of green, floral and woody notes underscores the laurel flower scent.",
+        "story": null,
+        "options": [
+            {
+                "size": "350ml",
+                "price": 40,
+                "weight": "350ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Exfoliating_Wash/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Exfoliating_Wash/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Exfoliating_Wash/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Exfoliating_Wash/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1271
+            }
+        ],
+        "collection": "Refill",
+        "sales": 191,
+        "inStock": false,
+        "created_at": "2024-07-24"
+    },
+    {
+        "id": 128,
+        "olfactory": "Refill",
+        "name": "Softening and comforting wash",
+        "type": "for the hands",
+        "keyword": "Mild, soothing, repairing",
+        "description": "Extend the restful interlude. Just pour this refill into the Softening Hand Wash bottle to keep using this hand care product that cleanses and relaxes the skin. Gentle and soothing, it washes hands delicately, leaving the skin pleasantly perfumed with lavender, rosemary, ylang-yland and amber.",
+        "story": null,
+        "options": [
+            {
+                "size": "350ml",
+                "price": 40,
+                "weight": "350ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Softening_and_comforting_wash/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Softening_and_comforting_wash/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Softening_and_comforting_wash/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Softening_and_comforting_wash/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1281
+            }
+        ],
+        "collection": "Refill",
+        "sales": 366,
+        "inStock": false,
+        "created_at": "2023-11-26"
+    },
+    {
+        "id": 129,
+        "olfactory": "Refill",
+        "name": "Velvet Lotion",
+        "type": "for the hands",
+        "keyword": "Gentle, enveloping, nurturing",
+        "description": "Leaves a light, undetectable layer that nourishes and protects the skin. To prolong the care ritual, just pour this refill into the glass bottle of the Velvet Hand Lotion. On your hands, immortelle floral water, Roman camomile floral water and sesame oil combine to deliver a sensorial experience..",
+        "story": null,
+        "options": [
+            {
+                "size": "350ml",
+                "price": 46,
+                "weight": "350ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Velvet_Lotion/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Velvet_Lotion/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Velvet_Lotion/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Velvet_Lotion/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1291
+            }
+        ],
+        "collection": "Refill",
+        "sales": 72,
+        "inStock": true,
+        "created_at": "2023-04-22"
+    },
+    {
+        "id": 130,
+        "olfactory": null,
+        "name": "Revitalizing Shower Gel",
+        "type": "for body and hair",
+        "keyword": "Invigorating, fresh, foaming",
+        "description": "What could be more delightful than an early morning jolt of fresh bergamot, inspired by Calabria and its cascading waterfalls? A revitalising gel that gently cleans. In the shower or bath, its light foam stimulates the mind while enveloping the body and hair in a delicate perfume of bergamot, green tangerine and honey from neroli oil.",
+        "story": null,
+        "options": [
+            {
+                "size": "200ml",
+                "price": 45,
+                "weight": "200ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_body_and_hair/Revitalizing_Shower_Gel/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_body_and_hair/Revitalizing_Shower_Gel/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_body_and_hair/Revitalizing_Shower_Gel/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_body_and_hair/Revitalizing_Shower_Gel/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1301
+            }
+        ],
+        "collection": null,
+        "sales": 372,
+        "inStock": true,
+        "created_at": "2024-03-13"
+    },
+    {
+        "id": 131,
+        "olfactory": null,
+        "name": "Rich butter",
+        "type": "For the body",
+        "keyword": "Opulent, melting, voluptuous",
+        "description": "Driven by the Byzantine rose, this smooth cream, as luscious and addictive as Turkish delight, quenches dry skin. As luxurious as fresh butter, this care product envelops the body in a delicate perfume. In its sillage, Damask rose mingles with myrrh and the power of Peru balsam.",
+        "story": null,
+        "options": [
+            {
+                "size": "200ml",
+                "price": 72,
+                "weight": "200ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_body/Rich_butter/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_body/Rich_butter/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_body/Rich_butter/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_body/Rich_butter/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1311
+            }
+        ],
+        "collection": null,
+        "sales": 119,
+        "inStock": true,
+        "created_at": "2024-08-28"
+    },
+    {
+        "id": 132,
+        "olfactory": null,
+        "name": "Rinse-free wash",
+        "type": "for the hands",
+        "keyword": "Cleansing, moisturising, gentle",
+        "description": "A readily portable gel, combining the cleansing properties of the Mediterranean white saponaria plant with the beneficial qualities of sweet almond oil. Just a pea-sized helping of gel is enough to clean and gently perfume the hands. It requires no rinsing, leaving the skin with Arabian jasmine notes enlivened by pink peppercorn and peach.",
+        "story": null,
+        "options": [
+            {
+                "size": "45ml",
+                "price": 25,
+                "weight": "45ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Rinse-free_wash/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Rinse-free_wash/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Rinse-free_wash/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Rinse-free_wash/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1321
+            }
+        ],
+        "collection": null,
+        "sales": 359,
+        "inStock": true,
+        "created_at": "2024-12-12"
+    },
+    {
+        "id": 133,
+        "olfactory": null,
+        "name": "Satin Oil",
+        "type": "for body and hair",
+        "keyword": "Beautifying, silky, evanescent",
+        "description": "A summer essential. Inspired by Rhodes, this versatile oil releases jasmine, ylang-ylang and saffron – fragrances from sun-drenched climes.An ethereal, satiny spray that restores radiance when sprayed onto the skin, while also leaving hair supple and shiny. A perfumed caress.",
+        "story": null,
+        "options": [
+            {
+                "size": "100ml",
+                "price": 58,
+                "weight": "100ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_body_and_hair/Satin_Oil/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_body_and_hair/Satin_Oil/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_body_and_hair/Satin_Oil/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_body_and_hair/Satin_Oil/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1331
+            }
+        ],
+        "collection": null,
+        "sales": 70,
+        "inStock": true,
+        "created_at": "2024-04-18"
+    },
+    {
+        "id": 134,
+        "olfactory": null,
+        "name": "Soft lotion",
+        "type": "for the body",
+        "keyword": "Fluid, mild",
+        "description": "Perfumed and delightfully soothing. When applied daily after the shower or bath, this lotion gives the skin a supple, moisturized feel.It envelops the body in gentle warmth, revealing notes of jasmine, ylang-ylang and beeswax.",
+        "story": null,
+        "options": [
+            {
+                "size": "250ml",
+                "price": 58,
+                "weight": "250ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_body/Soft_lotion/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_body/Soft_lotion/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_body/Soft_lotion/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_body/Soft_lotion/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1341
+            }
+        ],
+        "collection": null,
+        "sales": 315,
+        "inStock": true,
+        "created_at": "2024-08-22"
+    },
+    {
+        "id": 135,
+        "olfactory": null,
+        "name": "Softening and comforting wash",
+        "type": "for the hands",
+        "keyword": "Mild, soothing, repairing",
+        "description": "Hailed since antiquity, fine lavender from Provence lends its regenerative qualities to this soothing hand wash. Restoring the gentle feel of the skin, it also delivers lavender and rosemary notes softened by subtle accents of ylang-ylang and amber.",
+        "story": null,
+        "options": [
+            {
+                "size": "350ml",
+                "price": 62,
+                "weight": "350ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Softening_and_comforting_wash/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Softening_and_comforting_wash/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Softening_and_comforting_wash/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/for_the_hands/Softening_and_comforting_wash/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1351
+            }
+        ],
+        "collection": null,
+        "sales": 135,
+        "inStock": false,
+        "created_at": "2024-02-02"
+    },
+    {
+        "id": 136,
+        "olfactory": "Woody",
+        "name": "Tam Dao",
+        "type": "Scented soap",
+        "keyword": [
+            {"note": "Sandalwood"},
+            {"note": "Cedar"},
+            {"note": "Cypress"}
+        ],
+        "description": "Take a trip through time. In the shower and after, Tam Dao soap brings to life the holy forests of Vietnam, a childhood memory of Yves Coueslant. On the skin and in the air, the creamy foam leaves a velvety scent of sandalwood - woody and slightly spicy.",
+        "story": "The Fragrance Gestures draw their inspiration from the history of perfume, reinventing textures to offer a new approach to personal scenting. It is a way to make the invisible sensual, and the ethereal tangible. Each of the gestures - eau de toilette, perfume oil, body mist or body balm - has a specific concentrate designed to offer the best olfactory rendering depending on its formulation. With its high concentration, it can often be used alone depending on the moment and the mood. Matter becomes scent, scent becomes matter...",
+        "options": [
+            {
+                "size": "150g",
+                "price": 35,
+                "weight": "150g",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Tam_Dao/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Tam_Dao/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Tam_Dao/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Scented_soap/Tam_Dao/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1361
+            }
+        ],
+        "collection": [
+            {
+                "collectionName": "Tam Dao"
+            }
+        ],
+        "sales": 86,
+        "inStock": false,
+        "created_at": "2024-10-16"
+    },
+    {
+        "id": 137,
+        "olfactory": null,
+        "name": "The art of hand care",
+        "type": "Travel Set",
+        "keyword": "Hand wash, velvet hand lotion, rinse-free hand wash",
+        "description": "Three portable hand care products to take you on a sensorial journey. This collection offers three different gestures for cleansing the skin. Jus slip it into your suitcase or bag: The softening hand wash, the velvet hand lotion and the rinse-free hand wash soothe and cleanse the hands, enveloping them in a delicate perfume.",
+        "story": null,
+        "options": [
+            {
+                "size": "30ml",
+                "price": 38,
+                "weight": "30ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Travel_Set/The_art_of_hand_care/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Travel_Set/The_art_of_hand_care/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Travel_Set/The_art_of_hand_care/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Travel_Set/The_art_of_hand_care/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1371
+            }
+        ],
+        "collection": null,
+        "sales": 145,
+        "inStock": true,
+        "created_at": "2023-03-03"
+    },
+    {
+        "id": 138,
+        "olfactory": null,
+        "name": "Velvet Lotion",
+        "type": "For the hands",
+        "keyword": "Gentle, enveloping, nurturing",
+        "description": "With the beneficial qualities of the immortelle, Golden Flower of Corinth and symbol of eternity, this refined lotion leaves a soothing, protective layer on the hands.Its mouthwatering freshness springs from a blend of sweet almond and crisp petitgrain, offset by the comforting warmth of Virginia cedar.",
+        "story": null,
+        "options": [
+            {
+                "size": "350ml",
+                "price": 68,
+                "weight": "350ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_hands/Velvet_Lotion/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_hands/Velvet_Lotion/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_hands/Velvet_Lotion/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/For_the_hands/Velvet_Lotion/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1381
+            }
+        ],
+        "collection": null,
+        "sales": 36,
+        "inStock": false,
+        "created_at": "2023-10-05"
+    },
+    {
+        "id": 139,
+        "olfactory": null,
+        "name": "Vinaigre de toilette",
+        "type": "Multi-purpose",
+        "keyword": null,
+        "description": "To those in the know, it's essential. With its spice, wood and plant fragrances, this vinaigre de toilette lends itself to countless uses. A capful in the bath softens the water, a few drops after showering or shaving refreshes and invigorates the skin, and a glassful in boiling water will cleanse and perfume the home.",
+        "story": null,
+        "options": [
+            {
+                "size": "200ml",
+                "price": 65,
+                "weight": "200ml",
+                "images": {
+                    "thumbnail": {
+                        "default": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Multi-purpose/Vinaigre_de_toilette/thumbnail/default.jpg",
+                        "hover": "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Multi-purpose/Vinaigre_de_toilette/thumbnail/hover.jpg"
+                    },
+                    "detail": [
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Multi-purpose/Vinaigre_de_toilette/detail/detail_1.jpg",
+                        "https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/product/body/Multi-purpose/Vinaigre_de_toilette/detail/detail_2.jpg"
+                    ]
+                },
+                "optionId": 1391
+            }
+        ],
+        "collection": null,
+        "sales": 113,
+        "inStock": true,
+        "created_at": "2024-01-25"
+    }
+]

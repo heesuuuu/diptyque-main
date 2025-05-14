@@ -1,0 +1,51 @@
+.swiper-button-prev {
+  width: 58px;
+  height: 58px;
+
+  &::after {
+    content: '\e5cb';
+    font-family: 'Material Symbols Sharp';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    color: #112856;
+
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    width: 47px;
+    height: 38px;
+    border-radius: 9999px;
+    background-color: #f9f9d5;
+  }
+}
+
+.swiper-button-next {
+  width: 58px;
+  height: 58px;
+
+  &::after {
+    content: '\e5cc';
+    font-family: 'Material Symbols Sharp';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    color: #112856;
+
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    width: 47px;
+    height: 38px;
+    border-radius: 9999px;
+    background-color: #f9f9d5;
+  }
+}
+
+.swiper-button-disabled {
+  display: none;
+}
