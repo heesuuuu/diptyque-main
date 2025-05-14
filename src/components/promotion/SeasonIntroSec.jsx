@@ -15,13 +15,13 @@ const SeasonIntroSec = () => {
       img: [
         {
           id: 'spring1',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/c-01.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/c-01.png?raw=true',
           alt: '색상 장미',
           type: 'color',
         },
         {
           id: 'spring2',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-s01.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-s01.png?raw=true',
           alt: '드로잉 장미',
           type: 'drawing',
         },
@@ -35,13 +35,13 @@ const SeasonIntroSec = () => {
       img: [
         {
           id: 'summer1',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/c-02.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/c-02.png?raw=true',
           alt: '색상 오렌지',
           type: 'color',
         },
         {
           id: 'summer2',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-s02.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-s02.png?raw=true',
           alt: '드로잉 오렌지 과일',
           type: 'drawing',
         },
@@ -55,13 +55,13 @@ const SeasonIntroSec = () => {
       img: [
         {
           id: 'wood1',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/c-03.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/c-03.png?raw=true',
           alt: '색상 나무',
           type: 'color',
         },
         {
           id: 'wood2',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-a01.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-a01.png?raw=true',
           alt: '드로잉 나무',
           type: 'drawing',
         },
@@ -75,13 +75,13 @@ const SeasonIntroSec = () => {
       img: [
         {
           id: 'musk1',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/c-04.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/c-04.png?raw=true',
           alt: '색상 머스크',
           type: 'color',
         },
         {
           id: 'musk2',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-w01.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-w01.png?raw=true',
           alt: '드로잉 머스크 꽃',
           type: 'drawing',
         },
@@ -147,7 +147,7 @@ const SeasonIntroSec = () => {
       <div className="w-[45%] tablet:hidden mobile:hidden mr-[5%]">
         <div className="flex flex-col justify-between h-[690px] w-full">
           <img
-            src="https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/item-line01.png?raw=true"
+            src="https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/item-line01.png?raw=true"
             alt="Decorative line"
             className="w-full"
           />
@@ -161,7 +161,7 @@ const SeasonIntroSec = () => {
             />
           </div>
           <img
-            src="https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/item-line01.png?raw=true"
+            src="https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/item-line01.png?raw=true"
             alt="Decorative line"
             className="w-full"
           />

@@ -110,14 +110,14 @@ const PromotionIntro = () => {
       <section className="w-full h-[800px] flex justify-center items-center relative mobile:overflow-hidden tablet:h-[543px] mobile:h-[700px] ">
         <div className="w-full text-center ">
           <img
-            src="https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-s02.png?raw=true"
+            src="https://raw.githubusercontent.com/heesuuuu/diptyqueStatic1/main/page/Promotion/m-d-s02.png"
             alt=""
             style={{ opacity: opacity, transition: 'opacity 1.5s ease-in' }}
             className="absolute mobile:w-[25%] mobile:top-0 right desktop:hidden tablet:hidden mobile:flex transition-transform translate-y-[70%] translate-x-[280%] "
           />
           {/* 나무 */}
           <img
-            src="https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-a01-01.png?raw=true"
+            src="https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-a01-01.png?raw=true"
             alt=""
             style={{ opacity: opacity, transition: 'opacity 1.5s ease-in' }}
             className="absolute mobile:w-[18%] mobile:top-4 left-5 desktop:hidden tablet:hidden mobile:flex transition-transform translate-y-[90%]  "
@@ -129,7 +129,7 @@ const PromotionIntro = () => {
         {/* 기본 이미지 */}
         <div className="absolute bottom-0 w-full translate-y-[2%] mobile:hidden overflow-hidden">
           <img
-            src="https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/main-full.png?raw=true"
+            src="https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/main-full.png?raw=true"
             alt="Seasonal fragrances"
             className="w-full tablet:w-[120%] "
             style={{ opacity: opacity, transition: 'opacity 1.5s ease-in' }}
@@ -139,13 +139,13 @@ const PromotionIntro = () => {
         <div className="desktop:hidden tablet:hidden mobile:flex absolute  bottom-0">
           <div className=" bottom-0 mobile:flex">
             <img
-              src="https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-s01.png?raw=true"
+              src="https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-s01.png?raw=true"
               alt=""
               style={{ opacity: opacity, transition: 'opacity 1.5s ease-in', marginLeft: '-10%' }}
               className="mobile:w-[60%]   left-0  translate-y-[-5%] "
             />
             <img
-              src=" https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-s03.png?raw=true"
+              src=" https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-s03.png?raw=true"
               alt=""
               style={{ opacity: opacity, transition: 'opacity 1.5s ease-in', marginRight: '-10%' }}
               className="mobile:w-[56%] mobile:absolute mobile:right-0 transition-transform translate-y-[-15%]  "

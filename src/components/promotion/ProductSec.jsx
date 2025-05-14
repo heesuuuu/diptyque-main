@@ -21,13 +21,13 @@ const ProductSec = () => {
       img: [
         {
           id: 'spring1',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/c-01.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/c-01.png?raw=true',
           alt: '색상 장미',
           type: 'color',
         },
         {
           id: 'spring1',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-s01.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-s01.png?raw=true',
           alt: '드로잉 장미',
           type: 'drawing',
         },
@@ -41,25 +41,25 @@ const ProductSec = () => {
       img: [
         {
           id: 'summer1',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/c-02.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/c-02.png?raw=true',
           alt: '색상 오렌지',
           type: 'color',
         },
         {
           id: 'summer2',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-s02.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-s02.png?raw=true',
           alt: '드로잉 오렌지 과일',
           type: 'drawing',
         },
         {
           id: 'summer3',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-s04.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-s04.png?raw=true',
           alt: '드로잉 오렌지 과일2',
           type: 'drawing',
         },
         {
           id: 'summer4',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-s03.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-s03.png?raw=true',
           alt: '드로잉 오렌지 꽃',
           type: 'drawing',
         },
@@ -73,13 +73,13 @@ const ProductSec = () => {
       img: [
         {
           id: 'wood1',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/c-03.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/c-03.png?raw=true',
           alt: '색상 나무',
           type: 'color',
         },
         {
           id: 'wood2',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-a01.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-a01.png?raw=true',
           alt: '드로잉 나무',
           type: 'drawing',
         },
@@ -93,13 +93,13 @@ const ProductSec = () => {
       img: [
         {
           id: 'musk1',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/c-04.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/c-04.png?raw=true',
           alt: '색상 장미',
           type: 'color',
         },
         {
           id: 'musk2',
-          url: 'https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-w01.png?raw=true',
+          url: 'https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-w01.png?raw=true',
           alt: '드로잉 머스크 꽃',
           type: 'drawing',
         },

@@ -310,14 +310,14 @@ const MaisonPage = () => {
       >
         <AnimatedUpward>
           <img
-            src="https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/maison/Img2_1.png?raw=true"
+            src="https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/maison/Img2_1.png?raw=true"
             alt=""
             className="w-[433px] tablet:w-[282px] mobile:w-[222px] tablet:ml-5"
           />
         </AnimatedUpward>
         <AnimatedUpward>
           <img
-            src="https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/maison/Img2_2.png?raw=true"
+            src="https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/maison/Img2_2.png?raw=true"
             alt=""
             className="-mt-[220px] tablet:-mt-[120px] ml-[216px] tablet:ml-[161px] w-[228px] tablet:w-[167px] mobile:w-[134px] "
           />
@@ -339,7 +339,7 @@ const MaisonPage = () => {
         </div>
         <AnimatedUpward>
           <img
-            src="https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/maison/Img2_5.png?raw=true"
+            src="https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/maison/Img2_5.png?raw=true"
             alt=""
             className="mt-20 mx-auto w-[340px] tablet:w-[276px] mobile:w-[214px]"
           />

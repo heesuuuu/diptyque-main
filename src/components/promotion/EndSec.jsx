@@ -57,23 +57,26 @@ const EndSec = () => {
   };
 
   return (
-    <div ref={sectionRef} className="w-full h-[975px] tablet:h-[448px] mobile:h-[421px] bg-primary relative overflow-hidden">
+    <div
+      ref={sectionRef}
+      className="w-full h-[975px] tablet:h-[448px] mobile:h-[421px] bg-primary relative overflow-hidden"
+    >
       {/* 장미 */}
       <img
         className="absolute bottom-0 translate-y-[10%] tablet:w-[30%]"
-        src="https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-s01.png?raw=true"
+        src="https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-s01.png?raw=true"
         alt=""
       />
       {/* 오렌지 */}
       <img
         className="absolute bottom-0 right-0 translate-y-[10%] translate-x-[5%] w-[28%] mobile:w-[35%]"
-        src="https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-s03.png?raw=true"
+        src="https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-s03.png?raw=true"
         alt=""
       />
       {/* 나무 */}
       <img
         className="absolute bottom-0 right-[28%] tablet:w-[15%] mobile:w-[30%] mobile:right-[35%]"
-        src="https://github.com/2mightyMt/diptyqueStatic1/blob/main/page/Promotion/m-d-a01.png?raw=true"
+        src="https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/page/Promotion/m-d-a01.png?raw=true"
         alt=""
       />
 

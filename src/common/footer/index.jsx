@@ -54,7 +54,7 @@ const Footer = () => {
         <Link to="/" className="footer-logo-area">
           <h1>
             <img
-              src="https://github.com/2mightyMt/diptyqueStatic1/blob/main/images/footer/logo_white.png?raw=true"
+              src="https://raw.githubusercontent.com/2mightyMt/diptyqueStatic1/main/images/footer/logo_white.png?raw=true"
               alt="diptyque"
               className="w-[20vw] min-w-[200px] tablet:w-[184px]"
             />
