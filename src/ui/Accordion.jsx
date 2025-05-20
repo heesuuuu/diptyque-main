@@ -3,7 +3,7 @@ import Icon from './Icon';
 
 const Accordion = ({ title, content, className = '' }) => {
   const [isOpen, setIsOpen] = useState(false);
-  const contentRef = useRef(null); // 내용 높이 계산을 위한 ref
+  const contentRef = useRef(null);
 
   return (
     <div className={`h-fit border-solid border-b-[1px] cursor-pointer w-full ${className}`}>

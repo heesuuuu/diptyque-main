@@ -155,11 +155,8 @@ const CollectionProducts = ({ onChangeCollection }) => {
 
   const handleScroll = () => {
     if (displayedProducts.length === 0 || !isPC) return;
-
-    // 현재 스크롤 위치 저장
     scrollPositionRef.current = window.scrollY;
 
-    // 초기 로드 후 스크롤 발생 시 플래그 설정
     if (isInitialLoadRef.current) {
       isInitialLoadRef.current = false;
       setHasScrolled(true);
@@ -177,7 +174,6 @@ const CollectionProducts = ({ onChangeCollection }) => {
       nextCollectionName &&
       productsByCollection[nextCollectionName] &&
       !displayedProducts.some((product) => {
-        // 다음 컬렉션 상품이 이미 표시되고 있는지 확인
         let collectionName = null;
         if (Array.isArray(product.collection)) {
           const collectionObj = product.collection.find((col) => col && typeof col === 'object' && col.collectionName);
@@ -210,11 +206,9 @@ const CollectionProducts = ({ onChangeCollection }) => {
       }
     });
 
-    // 가장 가까운 상품이 변경된 경우
     if (closestProduct && closestProduct !== lastVisibleProductRef.current) {
       lastVisibleProductRef.current = closestProduct;
 
-      // 현재 상품 업데이트
       if (productsMap.current[closestProduct]) {
         setPreviousProduct(currentVisibleProduct);
         setCurrentVisibleProduct(closestProduct);

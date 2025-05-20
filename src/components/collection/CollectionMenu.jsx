@@ -11,9 +11,7 @@ const CollectionMenu = () => {
   } = useSelector((state) => state.collection);
 
   const handleCollectionClick = (collectionName) => {
-    // 컬렉션 선택 액션 디스패치 (이 액션에서 설명도 함께 설정됨)
     dispatch(selectCollection(collectionName));
-    
   };
 
   useEffect(() => {
