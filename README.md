@@ -98,9 +98,10 @@ yarn run dev
 # 4. 빌드
 yarn run build
 ```
-
+<!--
 ## 🚀 시연 영상
 
 <details><summary>Promotion</summary> 
 
 </details>
+-->
